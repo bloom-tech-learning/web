@@ -5,7 +5,7 @@
 [https://github.com/beatlesm/web-sprint-challenge-javascript-fundamentals](https://github.com/beatlesm/web-sprint-challenge-javascript-fundamentals)
 
 ## Interview Questions
-### (please edit this file and write your answer below each question.)
+
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
@@ -39,8 +39,4 @@ Edit this document to include your answers after each question. Make sure to lea
 ## Resources
  
  [Sprint Challenge Study Guide](https://www.notion.so/lambdaschool/Unit-1-Sprint-3-Study-Guide-033a9a00659a4ef98c12eb97e49a6110)
-
-## Submission format
-
-Please submit your project via codegrade by following [these instructions](https://www.notion.so/lambdaschool/Submitting-an-assignment-via-Code-Grade-A-Step-by-Step-Walkthrough-07bd65f5f8364e709ecb5064735ce374)
 
