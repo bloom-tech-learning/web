@@ -1,4 +1,4 @@
-#   Module 2 - Advanced Array Methods
+# Module 2 - Advanced Array Methods
 
 **Access your sprint challenge here:**
 
