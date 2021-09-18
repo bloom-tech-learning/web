@@ -1,6 +1,6 @@
 # Module 2 - Advanced Array Methods
 
-**Access your sprint challenge here:**
+**Access your challenge here:**
 
 [https://github.com/beatlesm/Array-Methods-and-Callbacks](https://github.com/beatlesm/Array-Methods-and-Callbacks)
 
