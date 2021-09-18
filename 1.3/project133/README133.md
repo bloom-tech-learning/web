@@ -1,4 +1,4 @@
-#  Module 3 - Prototypes and Inheritance
+#Module 3 - Prototypes and Inheritance
 
 **Access your sprint challenge here:**
 
