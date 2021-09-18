@@ -24,13 +24,12 @@ Think about the closest relationships you've had with family members, friends, c
 
 ## [Module 4: Interviewing Basics](https://github.com/beatlesm/web/tree/main/1.3/project134)
 
-[https://github.com/beatlesm/JS-Exercise-Classes](https://github.com/beatlesm/JS-Exercise-Classes)
-
 Interviewing is both an art and a science. At the core of interviewing is your ability to articulate stories that show your talent, skills, accomplishments, and character. To help you excel in interviews, we're going to teach you how to reflect upon your experiences and deliver polished stories that address a variety of behavioral or technical interview questions. The only way to get better at interviewing is through practice!
 
 ## [Module 5: Sprint Challenge and Assessment](https://github.com/beatlesm/web/tree/main/1.3/sprint13)
 
 This sprint focused on the fundamentals of career readiness. For your sprint challenge, you will build off of the foundations you set throughout the sprint to create a personalized career development plan that is tailored to your unique goals, experiences, and interests. This plan will consist of a set of goals that you can use to shape how you go about maintaining your career materials, building your network, and articulating your skills and experience, all of which you will continue to practice and grow in throughout the rest of Lambda School.
+
 -------------------------------------------------------------------
 
 ## Resources
