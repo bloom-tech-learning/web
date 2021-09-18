@@ -1,6 +1,6 @@
 # Module 4 - Classes
 
-**Access your sprint challenge here:**
+**Access your challenge here:**
 
 [https://github.com/beatlesm/JS-Exercise-Classes](https://github.com/beatlesm/JS-Exercise-Classes)
 

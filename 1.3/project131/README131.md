@@ -1,6 +1,6 @@
 # Module 1 - Scope and Closure
 
-**Access your sprint challenge here:**
+**Access your challenge here:**
 
 [https://github.com/beatlesm/web-module-challenge-scope-and-closure](https://github.com/beatlesm/web-module-challenge-scope-and-closure)
 

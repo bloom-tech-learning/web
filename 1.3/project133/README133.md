@@ -1,6 +1,6 @@
-#Module 3 - Prototypes and Inheritance
+# Module 3 - Prototypes and Inheritance
 
-**Access your sprint challenge here:**
+**Access your challenge here:**
 
 [https://github.com/beatlesm/JS-Exercise-Prototype](https://github.com/beatlesm/JS-Exercise-Prototype)
 
