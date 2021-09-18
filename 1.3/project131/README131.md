@@ -1,4 +1,4 @@
-#  Module 1 - Scope and Closure
+# Module 1 - Scope and Closure
 
 **Access your sprint challenge here:**
 
