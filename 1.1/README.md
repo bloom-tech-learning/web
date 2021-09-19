@@ -16,7 +16,8 @@ Even the most complex web applications start with simple HTML elements. Knowing 
 
 ## [Module 2 - Git for Web Development](https://github.com/beatlesm/web/tree/main/1.1/project112)
 
-[https://github.com/beatlesm/Git-for-Web-Development-Project/pull/1](https://github.com/beatlesm/Git-for-Web-Development-Project/pull/1)
+-   [https://github.com/beatlesm/Git-for-Web-Development-Project/pull/1](https://github.com/beatlesm/Git-for-Web-Development-Project/pull/1)
+-   [https://codepen.io/rjgeng/pen/wveMjWO](https://codepen.io/rjgeng/pen/wveMjWO)
 
 Git is a distributed version control system. What does that mean to a new web developer? It means that git is used to monitor and control code changes made during development across several people or teams.
 
