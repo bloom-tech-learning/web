@@ -1,4 +1,4 @@
-# WEB48 - 1.3 - Career Readiness
+# WEB48 - 1.4 - Career Development
 
 *Please note some content will only appear on the day a module is taught. Each module project is due by the end of the day.*
 
