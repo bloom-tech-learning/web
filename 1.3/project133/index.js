@@ -19,6 +19,7 @@ Airplane.prototype.land = function () {
   this.isFlying = false;
 };
 
+
 /*
 // 👇 COMPLETE YOUR WORK BELOW 👇
 // 👇 COMPLETE YOUR WORK BELOW 👇
@@ -59,6 +60,7 @@ Person.prototype.toString = function (name, age) {
 };
 
 console.log('task 1: ', new Person('Rongjun GENG', 50));
+
 
 /*
   TASK 2
@@ -118,6 +120,7 @@ Baby.prototype.eat = function (someFood) {
   3. Explicit binding - explicitly pass in as an argument of what want 'this' to refer to.
   4. New binding - which is used with constructor functions.
 */
+
 
 ///////// END OF CHALLENGE /////////
 
