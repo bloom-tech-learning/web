@@ -1,51 +1,38 @@
-# The _class_ Syntax
+# WEB48 - 1.4 - Career Development
 
-This challenge focuses on using the new for ES6 `class` syntax.
+*Please note some content will only appear on the day a module is taught. Each module project is due by the end of the day.*
 
-## JavaScript Fundamentals
+## Overview
 
-## Objectives
+Welcome to the beginning of your professional journey as a Web Developer or Data Scientist. Over the next few months we'll teach you more than just the technical skills needed to perform work in your field! Career and professional development is just as important as your technical development, so through career modules, we'll teach you how to: network, write a resume, create a LinkedIn profile, excel in interviews, and approach your job search, just to name a few topics. You can always access career resources under the career services (Links to an external site.) tab of your my.lambdaschool.com profile.
 
-- Student should be able to describe and demonstrate how class syntax works
-- Student should be able to convert a pseudo classically instantiated program into class syntax
+This week, we'll be kick off your professional development with the following modules:
 
-## Instructions
+## [Module 1: Get to Know Your Career Path](https://github.com/beatlesm/web/tree/main/1.3/project131)
 
-### Task 1: Set up Project
+Like many students before you, you decided to come to Lambda School to pursue a technical career. Every Lambda School student's journey is unique, with each of your stories informing how you'll approach your individual career development. Your personal story and path is also what you'll use to answer future interview questions like, "Tell me a little bit about yourself", or "What made you decide to become a (Data Scientist) or (Web Developer)"?
 
-Using VSCode and Command Line:
+Before we get into interviewing and answering those questions, we'll use this first career module as an opportunity to explore the different paths where your career journey could take you. To do so, we'll teach you about trends in the tech field and facts about careers related to the curriculum track you've chosen to study.
 
+## [Module 2: Resume and LinkedIn Fundamentals](https://github.com/beatlesm/web/tree/main/1.3/project132)
 
-1. Fork the repo
-2. Clone your forked version of the repo
-3. cd into your repo and create a branch with your first and last name
-4. open the terminal in your vs code and type `npm install`
-5. next type `npm run test` in your terminal
-6. Complete your work making regular commits, once you have all your tests passing and you are ready to submit your work please see canvas for instructions on how to submit
+Your resume and LinkedIn profile are often your first impression or introduction to a potential employer or hiring manager. If getting a job were to be compared to a movie, your resume and LinkedIn are the teaser trailer. These two professional artifacts should hook viewers in and get them excited to learn more about you and your story. It may seem early to think about these two artifacts, but now is the time to create a foundation. In this module, we'll ensure you know how to begin writing a technical resume, and establish a compelling profile on LinkedIn.
 
-### Task 2 - MVP
+## [Module 3: Establishing and Maintaining a Network](https://github.com/beatlesm/web/tree/main/1.3/project133)
 
-Find the file `index.js` and complete the tasks until all of your tests pass.
+Think about the closest relationships you've had with family members, friends, coworkers, classmates, or teachers. Chances are, these relationships didn’t form after just one or two interactions. Instead, they were built over months and years. Establishing strong relationships within your professional network will need the same effort, time and care. In this module, you'll learn how to identify new contacts and bring them into your network, while keeping up with those who are already part of your network.
 
-**You can use yesterday's work to help you.** However, if you struggled a lot with that assignment, it is recommended that you attempt to re-write all code without "cheating" (peeking at yesterday's code or copy-pasting it).
+## [Module 4: Interviewing Basics](https://github.com/beatlesm/web/tree/main/1.3/project134)
 
-If you run into trouble while coding, fight the good fight for 20 minutes and then get on the help channel. __Remember to formulate your help request in a professional manner__ - like you would at the job - by including error messages, screenshots, and any other pertinent information about the problem, as well as what things you have attempted already while trying to solve it.
+Interviewing is both an art and a science. At the core of interviewing is your ability to articulate stories that show your talent, skills, accomplishments, and character. To help you excel in interviews, we're going to teach you how to reflect upon your experiences and deliver polished stories that address a variety of behavioral or technical interview questions. The only way to get better at interviewing is through practice!
 
-### Testing & Debugging
+## [Module 5: Sprint Challenge and Assessment](https://github.com/beatlesm/web/tree/main/1.3/sprint13)
 
-Open a second terminal inside of your project by clicking on the split terminal icon
-![alt text](assets/split_terminal.png "Split Terminal")
+This sprint focused on the fundamentals of career readiness. For your sprint challenge, you will build off of the foundations you set throughout the sprint to create a personalized career development plan that is tailored to your unique goals, experiences, and interests. This plan will consist of a set of goals that you can use to shape how you go about maintaining your career materials, building your network, and articulating your skills and experience, all of which you will continue to practice and grow in throughout the rest of Lambda School.
 
-Inside of your second terminal type `npm start` 
-![alt text](assets/npm_start.png "type npm start")
+-------------------------------------------------------------------
 
-You will be running your tests in one terminal and debugging in the other. As you work on your code you should make use of `console.log` to check your progress and debug.
-![alt text](assets/tests_debug_terminal_final.png "your terminal should look like this")
+## Resources
+ 
+ [Sprint Challenge Study Guide]()
 
-### Task 3 - Stretch 
-
-There are stretch goals found throughout `index.js`. Complete these after you have all of your tests passing for MVP!
-
-## Submission format
-
-Please submit your project via codegrade by following [these instructions](https://www.notion.so/lambdaschool/Submitting-an-assignment-via-Code-Grade-A-Step-by-Step-Walkthrough-07bd65f5f8364e709ecb5064735ce374)
