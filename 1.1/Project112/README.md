@@ -1,4 +1,8 @@
 # Git for Web Development Project
+
+-   [https://github.com/beatlesm/Git-for-Web-Development-Project/pull/1](https://github.com/beatlesm/Git-for-Web-Development-Project/pull/1)
+-   [https://codepen.io/rjgeng/pen/wveMjWO](https://codepen.io/rjgeng/pen/wveMjWO)
+
 In this project you will be using the concepts learned in the Git for Web Development lesson to fork/clone/push/and submit a PR for each project during this sprint.
 
 This project consists of two parts:
