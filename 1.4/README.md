@@ -1,19 +1,13 @@
-# Constructors, Prototypes and _this_
+# The _class_ Syntax
 
-**Access your challenge here:**
-
-[https://github.com/beatlesm/JS-Exercise-Prototype](https://github.com/beatlesm/JS-Exercise-Prototype)
+This challenge focuses on using the new for ES6 `class` syntax.
 
 ## JavaScript Fundamentals
 
 ## Objectives
 
-- explain the four principles of the 'this' keyword and demonstrate each explanation with an example of their uses
-- describe, and use prototypes, constructor functions the new keyword, and pseudo-classical inheritance to build objects
-
-## Introduction
-
-In order to complete these tasks you will need your newly aquired knowledge of constructor functions, prototypes, and the `this` keyword.
+- Student should be able to describe and demonstrate how class syntax works
+- Student should be able to convert a pseudo classically instantiated program into class syntax
 
 ## Instructions
 
@@ -29,11 +23,11 @@ Using VSCode and Command Line:
 5. next type `npm run test` in your terminal
 6. Complete your work making regular commits, once you have all your tests passing and you are ready to submit your work please see canvas for instructions on how to submit
 
-
 ### Task 2 - MVP
 
-Find the file `index.js` and complete tasks 1, 2 and 3 until all of your tests pass.
-There is an additional task 4 which requires written explanations and has no tests.
+Find the file `index.js` and complete the tasks until all of your tests pass.
+
+**You can use yesterday's work to help you.** However, if you struggled a lot with that assignment, it is recommended that you attempt to re-write all code without "cheating" (peeking at yesterday's code or copy-pasting it).
 
 If you run into trouble while coding, fight the good fight for 20 minutes and then get on the help channel. __Remember to formulate your help request in a professional manner__ - like you would at the job - by including error messages, screenshots, and any other pertinent information about the problem, as well as what things you have attempted already while trying to solve it.
 
@@ -50,7 +44,7 @@ You will be running your tests in one terminal and debugging in the other. As yo
 
 ### Task 3 - Stretch 
 
-There are stretch goals found throughout `index.js`. Do not start work on these until you have finished MVP. 
+There are stretch goals found throughout `index.js`. Complete these after you have all of your tests passing for MVP!
 
 ## Submission format
 

@@ -1,5 +1,9 @@
 # The _class_ Syntax
 
+**Access your challenge here:**
+
+[https://github.com/beatlesm/JS-Exercise-Classes](https://github.com/beatlesm/JS-Exercise-Classes)
+
 This challenge focuses on using the new for ES6 `class` syntax.
 
 ## JavaScript Fundamentals
