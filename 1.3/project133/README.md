@@ -1,5 +1,9 @@
 # Constructors, Prototypes and _this_
 
+**Access your challenge here:**
+
+[https://github.com/beatlesm/JS-Exercise-Prototype](https://github.com/beatlesm/JS-Exercise-Prototype)
+
 ## JavaScript Fundamentals
 
 ## Objectives
