@@ -1,5 +1,7 @@
 # WEB48 - 1.3 - JAVASCRIPT FUNDAMENTALS
 
+## <span style="color:red">Overview</span>
+
 One of the most powerful web languages is JavaScript. Without it, there is no web. All web browsers use JavaScript in some fashion to power rich user experiences for those interacting with a web page or application.
 
 JavaScript is everywhere today! And we have the opportunity here to dive deep enough into the language to teach you how to be proficient in building modern, complex and beautiful web applications that are used to power the web today!
