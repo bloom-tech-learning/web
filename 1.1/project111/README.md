@@ -20,4 +20,4 @@ Please submit both urls in the input below with a comma and no space.
 
 example:
 
-http://codepen.com/project1,http://codepen.com/project2Links to an external site.
+http://codepen.com/project1,http://codepen.com/project2
