@@ -14,7 +14,7 @@ The goal of this sprint is to build user interfaces and introduce git into our w
 
 Even the most complex web applications start with simple HTML elements. Knowing how to use HTML and style it with CSS has a massive impact for your future as a developer. This module will explore the fundamentals of HTML and CSS.
 
-## [Module 2 - Git for Web Development](https://github.com/beatlesm/web/tree/main/1.1/Project112)
+## [Module 2 - Git for Web Development](https://github.com/beatlesm/web/tree/main/1.1/project112)
 
 -   [https://github.com/beatlesm/Git-for-Web-Development-Project](https://github.com/beatlesm/Git-for-Web-Development-Project)
 -   [https://codepen.io/rjgeng/pen/wveMjWO](https://codepen.io/rjgeng/pen/wveMjWO)
