@@ -1,5 +1,6 @@
 # Git for Web Development Project
 
+**Access your sprint challenge here:**
 -   [https://github.com/beatlesm/Git-for-Web-Development-Project/pull/1](https://github.com/beatlesm/Git-for-Web-Development-Project/pull/1)
 -   [https://codepen.io/rjgeng/pen/wveMjWO](https://codepen.io/rjgeng/pen/wveMjWO)
 
