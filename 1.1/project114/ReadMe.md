@@ -1,5 +1,9 @@
 # Flexbox Module Challenge
 
+-   **[https://github.com/beatlesm/User-Interface-II](https://github.com/beatlesm/User-Interface-II)**
+
+-   **[https://www.rongjun-geng.info/](https://www.rongjun-geng.info/)**
+
 The module challenge is the afternoon project or assignment that students work through independently. This expands on the guided project completed earlier with the instructor.
 
 ## User Interface and Git
