@@ -6,7 +6,7 @@ Having the ability to craft user interface is key for full stack web developers 
 
 The goal of this sprint is to build user interfaces and introduce git into our work flow. Concepts covered: Semantic HTML, display types, basic terminal use, basic git use, CSS specificity, and flex box.
 
-## [Module 1 - User Interface](https://github.com/beatlesm/web/tree/main/1.1/project111)
+## Module 1 - User Interface
 
 - [https://codepen.io/rjgeng/pen/qBjOeVY](https://codepen.io/rjgeng/pen/qBjOeVY)
 
@@ -14,7 +14,7 @@ The goal of this sprint is to build user interfaces and introduce git into our w
 
 Even the most complex web applications start with simple HTML elements. Knowing how to use HTML and style it with CSS has a massive impact for your future as a developer. This module will explore the fundamentals of HTML and CSS.
 
-## [Module 2 - Git for Web Development](https://github.com/beatlesm/web/tree/main/1.1/project112)
+## [Module 2 - Git for Web Development](https://github.com/beatlesm/web/tree/main/1.1/Project112)
 
 -   [https://github.com/beatlesm/Git-for-Web-Development-Project/pull/1](https://github.com/beatlesm/Git-for-Web-Development-Project/pull/1)
 -   [https://codepen.io/rjgeng/pen/wveMjWO](https://codepen.io/rjgeng/pen/wveMjWO)
