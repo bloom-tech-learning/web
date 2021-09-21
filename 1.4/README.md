@@ -34,5 +34,7 @@ This sprint focused on the fundamentals of career readiness. For your sprint cha
 
 ## Resources
  
- [Sprint Challenge Study Guide]()
+-   **[https://www.pramp.com](https://www.pramp.com)**
+-   **[https://www.codewars.com/](https://www.codewars.com/)**
+-   **[https://www.hackrank.com](https://www.hackrank.com)**
 
