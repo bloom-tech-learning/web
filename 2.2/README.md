@@ -1,48 +1,38 @@
-# WEB - 2.2 - 
+# WEB - 2.1 - Career Development 
+*Please note some content will only appear on the day a module is taught. Each module project is due by the end of the day.*
 
 ## <span style="color:red">Overview</span>
 
-Having the ability to craft user interface is key for full stack web developers in all organizations. Another key ability for professional developers is knowing how to use git. This week we will cover those skills and more, and work to create several fully functional websites, including a multi-page portfolio site to showcase your work at Lambda.
+Welcome to the beginning of your professional journey as a Web Developer or Data Scientist. Over the next few months we'll teach you more than just the technical skills needed to perform work in your field! Career and professional development is just as important as your technical development, so through career modules, we'll teach you how to: network, write a resume, create a LinkedIn profile, excel in interviews, and approach your job search, just to name a few topics. You can always access career resources under the career services (Links to an external site.) tab of your my.lambdaschool.com profile.
 
-The goal of this sprint is to build user interfaces and introduce git into our work flow. Concepts covered: Semantic HTML, display types, basic terminal use, basic git use, CSS specificity, and flex box.
+This week, we'll be kick off your professional development with the following modules:
 
-## [Module 1 - User Interface](https://github.com/beatlesm/web/tree/main/1.1/project111)
+## Module 1: Get to Know Your Career Path
 
-- [https://codepen.io/rjgeng/pen/qBjOeVY](https://codepen.io/rjgeng/pen/qBjOeVY)
+Like many students before you, you decided to come to Lambda School to pursue a technical career. Every Lambda School student's journey is unique, with each of your stories informing how you'll approach your individual career development. Your personal story and path is also what you'll use to answer future interview questions like, "Tell me a little bit about yourself", or "What made you decide to become a (Data Scientist) or (Web Developer)"?
 
-- [https://codepen.io/rjgeng/pen/OJgVORo](https://codepen.io/rjgeng/pen/OJgVORo)
+Before we get into interviewing and answering those questions, we'll use this first career module as an opportunity to explore the different paths where your career journey could take you. To do so, we'll teach you about trends in the tech field and facts about careers related to the curriculum track you've chosen to study.
 
-Even the most complex web applications start with simple HTML elements. Knowing how to use HTML and style it with CSS has a massive impact for your future as a developer. This module will explore the fundamentals of HTML and CSS.
+## Module 2: Resume and LinkedIn Fundamentals
 
-## [Module 2 - Git for Web Development](https://github.com/beatlesm/web/tree/main/1.1/project112)
+Your resume and LinkedIn profile are often your first impression or introduction to a potential employer or hiring manager. If getting a job were to be compared to a movie, your resume and LinkedIn are the teaser trailer. These two professional artifacts should hook viewers in and get them excited to learn more about you and your story. It may seem early to think about these two artifacts, but now is the time to create a foundation. In this module, we'll ensure you know how to begin writing a technical resume, and establish a compelling profile on LinkedIn.
 
--   [https://github.com/beatlesm/Git-for-Web-Development-Project](https://github.com/beatlesm/Git-for-Web-Development-Project)
--   [https://codepen.io/rjgeng/pen/wveMjWO](https://codepen.io/rjgeng/pen/wveMjWO)
+## Module 3: Establishing and Maintaining a Network
 
-Git is a distributed version control system. What does that mean to a new web developer? It means that git is used to monitor and control code changes made during development across several people or teams.
+Think about the closest relationships you've had with family members, friends, coworkers, classmates, or teachers. Chances are, these relationships didn’t form after just one or two interactions. Instead, they were built over months and years. Establishing strong relationships within your professional network will need the same effort, time and care. In this module, you'll learn how to identify new contacts and bring them into your network, while keeping up with those who are already part of your network.
 
-Git can be overwhelming at first, but if we break it down concept by concept, it should start to become clear why almost everyone in the industry uses it every day.
+## Module 4: Interviewing Basics
 
-## [Module 3 - Intro CSS](https://github.com/beatlesm/web/tree/main/1.1/project113)
+[Interviewing is both an art and a science. At the core of interviewing is your ability to articulate stories that show your talent, skills, accomplishments, and character. To help you excel in interviews, we're going to teach you how to reflect upon your experiences and deliver polished stories that address a variety of behavioral or technical interview questions. The only way to get better at interviewing is through practice!
 
-[https://github.com/beatlesm/web-module-project-intro-css](https://github.com/beatlesm/web-module-project-intro-css)
+## Module 5: Sprint Challenge and Assessment
 
-In this module we will dive deeper into the world of CSS to learn about the box model, specificity, and responsive units. These tools will help you to write professional-quality CSS that will be mostly compatible across browser types and screen sizes.
-
-
-## [Module 4 - CSS Layouts](https://github.com/beatlesm/web/tree/main/1.1/project114)
-
-[https://github.com/beatlesm/User-Interface-II](https://github.com/beatlesm/User-Interface-II)
-
-Basic HTML and CSS are fundamental to any web site or web app on the internet. Being able to create layouts using CSS is the next progression on your journey to a full stack web developer. In this module we will cover flexbox and continue to work with specificity. There are many ways to layout a page in CSS but flexbox is one of the most powerful and simple ways to do it. We will discuss the basics of what flexbox is and how we use it properly to build a user interface.
-
-## [Sprint](https://github.com/beatlesm/web/tree/main/1.1/sprint11)
-
-[https://github.com/beatlesm/web-Sprint-Challenge-User-Interface-and-Git](https://github.com/beatlesm/web-Sprint-Challenge-User-Interface-and-Git)
-
+This sprint focused on the fundamentals of career readiness. For your sprint challenge, you will build off of the foundations you set throughout the sprint to create a personalized career development plan that is tailored to your unique goals, experiences, and interests. This plan will consist of a set of goals that you can use to shape how you go about maintaining your career materials, building your network, and articulating your skills and experience, all of which you will continue to practice and grow in throughout the rest of Lambda School.
 
 -------------------------------------------------------------------
 
 ## Resources
  
- [Sprint Challenge Study Guide]()
+-   **[https://www.pramp.com](https://www.pramp.com)**
+-   **[https://www.codewars.com/](https://www.codewars.com/)**
+-   **[https://www.hackrank.com](https://www.hackrank.com)**
