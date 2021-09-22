@@ -177,5 +177,14 @@ git branch --r -l
 ```sh
   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-
+## Decrease macos launchpad Icons Size
+```sh
+defaults write com.apple.dock springboard-rows -int 7
+defaults write com.apple.dock springboard-columns -int 6;killall Dock
+```
+## Setting it Back
+```sh
+defaults delete com.apple.dock springboard-rows
+defaults delete com.apple.dock springboard-columns;killall Dock
+```
 
