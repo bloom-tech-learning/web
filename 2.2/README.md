@@ -1,12 +1,3 @@
-# WEB - 2.1 - Career Development 
-*Please note some content will only appear on the day a module is taught. Each module project is due by the end of the day.*
-
-## <span style="color:red">Overview</span>
-
-Welcome to the beginning of your professional journey as a Web Developer or Data Scientist. Over the next few months we'll teach you more than just the technical skills needed to perform work in your field! Career and professional development is just as important as your technical development, so through career modules, we'll teach you how to: network, write a resume, create a LinkedIn profile, excel in interviews, and approach your job search, just to name a few topics. You can always access career resources under the career services (Links to an external site.) tab of your my.lambdaschool.com profile.
-
-This week, we'll be kick off your professional development with the following modules:
-
 # WEB - 2.2 - Intro to React
 
 ## <span style="color:red">Overview</span>
