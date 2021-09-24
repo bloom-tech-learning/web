@@ -1,48 +1,39 @@
-# WEB - 2.3 - 
+# WEB - 2.3 - Single Page Applications
 
 ## <span style="color:red">Overview</span>
 
-Having the ability to craft user interface is key for full stack web developers in all organizations. Another key ability for professional developers is knowing how to use git. This week we will cover those skills and more, and work to create several fully functional websites, including a multi-page portfolio site to showcase your work at Lambda.
+This week we'll be learning about using three crucial concepts in react - routing, forms, and testing. With the UI Library (React), the Client-Side Routing Library (React Router), the Form library Yup, and the testing app Cypress, you'll be able to craft rich, robust, and highly scale-able Single Page Applications.
 
-The goal of this sprint is to build user interfaces and introduce git into our work flow. Concepts covered: Semantic HTML, display types, basic terminal use, basic git use, CSS specificity, and flex box.
+The approach here exposes you to the concept of a 'single page application' that doesn't concern itself with the data it will present to the user. This is how modern applications are built today, where the client (React App) and server are separated into their concepts.
 
-## [Module 1 - User Interface](https://github.com/beatlesm/web/tree/main/1.1/project111)
+## Module 1: React Router
 
-- [https://codepen.io/rjgeng/pen/qBjOeVY](https://codepen.io/rjgeng/pen/qBjOeVY)
+Due to the insane popularity of JavaScript frameworks and what we call single page applications (SPAs), we rely on our modern web browsers today for a lot more than we used to in the past. One of the common trends with SPAs today is the idea of Client-Side Routing or the browser taking care of "URL" history.
 
-- [https://codepen.io/rjgeng/pen/OJgVORo](https://codepen.io/rjgeng/pen/OJgVORo)
+This module will guide you into the intricacies of React Router V5. As you learn and discover the inner workings of this package, your SPA's will start to come to life, you'll have more control over how your users view the content they're supposed to be viewing, and you'll be granted a rich developer experience. A lot of the items discussed here lend themselves to being commonly used.
 
-Even the most complex web applications start with simple HTML elements. Knowing how to use HTML and style it with CSS has a massive impact for your future as a developer. This module will explore the fundamentals of HTML and CSS.
-
-## [Module 2 - Git for Web Development](https://github.com/beatlesm/web/tree/main/1.1/project112)
-
--   [https://github.com/beatlesm/Git-for-Web-Development-Project](https://github.com/beatlesm/Git-for-Web-Development-Project)
--   [https://codepen.io/rjgeng/pen/wveMjWO](https://codepen.io/rjgeng/pen/wveMjWO)
-
-Git is a distributed version control system. What does that mean to a new web developer? It means that git is used to monitor and control code changes made during development across several people or teams.
-
-Git can be overwhelming at first, but if we break it down concept by concept, it should start to become clear why almost everyone in the industry uses it every day.
-
-## [Module 3 - Intro CSS](https://github.com/beatlesm/web/tree/main/1.1/project113)
-
-[https://github.com/beatlesm/web-module-project-intro-css](https://github.com/beatlesm/web-module-project-intro-css)
-
-In this module we will dive deeper into the world of CSS to learn about the box model, specificity, and responsive units. These tools will help you to write professional-quality CSS that will be mostly compatible across browser types and screen sizes.
+## Module 2: Form Management
 
 
-## [Module 4 - CSS Layouts](https://github.com/beatlesm/web/tree/main/1.1/project114)
 
-[https://github.com/beatlesm/User-Interface-II](https://github.com/beatlesm/User-Interface-II)
+## Module 3: Advanced Form Management
 
-Basic HTML and CSS are fundamental to any web site or web app on the internet. Being able to create layouts using CSS is the next progression on your journey to a full stack web developer. In this module we will cover flexbox and continue to work with specificity. There are many ways to layout a page in CSS but flexbox is one of the most powerful and simple ways to do it. We will discuss the basics of what flexbox is and how we use it properly to build a user interface.
 
-## [Sprint](https://github.com/beatlesm/web/tree/main/1.1/sprint11)
 
-[https://github.com/beatlesm/web-Sprint-Challenge-User-Interface-and-Git](https://github.com/beatlesm/web-Sprint-Challenge-User-Interface-and-Git)
+## Module 4: cypress.io
+
+In this module, you will learn about testing. Writing good quality code isn't possible without tests. It's simply too difficult to catch every error on your own. In your careers, you'll be expected to write and understand different types of testing to speed up your workflow, prevent bugs, and integrate systems.
+
+The visual testing application, cypress, is a great place to start learning about testing principles in general.
+
+## Sprint 2.3: Sprint Challenge and Assessment
+
 
 
 -------------------------------------------------------------------
 
 ## Resources
  
- [Sprint Challenge Study Guide]()
+-   **[https://www.pramp.com]()**
+-   **[https://www.codewars.com/]()**
+-   **[https://www.hackrank.com]()**
