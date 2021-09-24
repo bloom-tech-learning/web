@@ -1,38 +1,33 @@
 # WEB - 2.1 - Career Development 
-*Please note some content will only appear on the day a module is taught. Each module project is due by the end of the day.*
 
 ## <span style="color:red">Overview</span>
 
-Welcome to the beginning of your professional journey as a Web Developer or Data Scientist. Over the next few months we'll teach you more than just the technical skills needed to perform work in your field! Career and professional development is just as important as your technical development, so through career modules, we'll teach you how to: network, write a resume, create a LinkedIn profile, excel in interviews, and approach your job search, just to name a few topics. You can always access career resources under the career services (Links to an external site.) tab of your my.lambdaschool.com profile.
+This week is all about exposing you to applying your Javascript knowledge to the Document Object Model (DOM) and creating rich Javascript user interfaces.
 
-This week, we'll be kick off your professional development with the following modules:
+## Module 1: DOM I
 
-## Module 1: Get to Know Your Career Path
+Now that we can build a basic static web page with HTML and CSS, we need to add functionality. The first step in building vibrant, dynamic web pages and applications is learning about the DOM. What it is, how it affects our page, and how to access and manipulate it. DOM manipulation is at the core of every framework, and before we start using frameworks, we need to understand the DOM.
 
-Like many students before you, you decided to come to Lambda School to pursue a technical career. Every Lambda School student's journey is unique, with each of your stories informing how you'll approach your individual career development. Your personal story and path is also what you'll use to answer future interview questions like, "Tell me a little bit about yourself", or "What made you decide to become a (Data Scientist) or (Web Developer)"?
+## Module 2: DOM II
 
-Before we get into interviewing and answering those questions, we'll use this first career module as an opportunity to explore the different paths where your career journey could take you. To do so, we'll teach you about trends in the tech field and facts about careers related to the curriculum track you've chosen to study.
+Events are the way web users interact with the page. Any time there is some interaction through a mouse, keyboard, etc., the DOM creates and propagates an event object. This event object carries information about the event to be handled at any point up the tree from the point of origin.
 
-## Module 2: Resume and LinkedIn Fundamentals
+## Module 3: Components I
 
-Your resume and LinkedIn profile are often your first impression or introduction to a potential employer or hiring manager. If getting a job were to be compared to a movie, your resume and LinkedIn are the teaser trailer. These two professional artifacts should hook viewers in and get them excited to learn more about you and your story. It may seem early to think about these two artifacts, but now is the time to create a foundation. In this module, we'll ensure you know how to begin writing a technical resume, and establish a compelling profile on LinkedIn.
+As we build larger and more feature-rich web pages, we may notice a trend in our code; elements essentially using the same functionality and styling with minor differences in the data they present. To keep our code readable, reusable, and most of all DRY, we can build on these repeating patterns and create components. Components are reusable pieces of code that can be used to build elements sharing functionality and styling. Components are the heart of any dynamic web application and JavaScript framework.
 
-## Module 3: Establishing and Maintaining a Network
+## Module 4: Components II
 
-Think about the closest relationships you've had with family members, friends, coworkers, classmates, or teachers. Chances are, these relationships didn’t form after just one or two interactions. Instead, they were built over months and years. Establishing strong relationships within your professional network will need the same effort, time and care. In this module, you'll learn how to identify new contacts and bring them into your network, while keeping up with those who are already part of your network.
-
-## Module 4: Interviewing Basics
-
-[Interviewing is both an art and a science. At the core of interviewing is your ability to articulate stories that show your talent, skills, accomplishments, and character. To help you excel in interviews, we're going to teach you how to reflect upon your experiences and deliver polished stories that address a variety of behavioral or technical interview questions. The only way to get better at interviewing is through practice!
+Now that we understand what a component is, we can learn to utilize asynchronous JavaScript and Promises to make HTTP requests and get data from a server.
 
 ## Module 5: Sprint Challenge and Assessment
 
-This sprint focused on the fundamentals of career readiness. For your sprint challenge, you will build off of the foundations you set throughout the sprint to create a personalized career development plan that is tailored to your unique goals, experiences, and interests. This plan will consist of a set of goals that you can use to shape how you go about maintaining your career materials, building your network, and articulating your skills and experience, all of which you will continue to practice and grow in throughout the rest of Lambda School.
+
 
 -------------------------------------------------------------------
 
 ## Resources
  
--   **[https://www.pramp.com](https://www.pramp.com)**
--   **[https://www.codewars.com/](https://www.codewars.com/)**
--   **[https://www.hackrank.com](https://www.hackrank.com)**
+-   **[https://www.pramp.com]()**
+-   **[https://www.codewars.com/]()**
+-   **[https://www.hackrank.com]()**
