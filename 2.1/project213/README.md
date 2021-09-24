@@ -1,4 +1,4 @@
-# Newsfeed-Components
+# Module 3: Components I - Newsfeed-Components
 
 -   **[https://github.com/beatlesm/Newsfeed-Components](https://github.com/beatlesm/Newsfeed-Components)**
 
