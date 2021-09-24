@@ -1,4 +1,4 @@
-# WEB - 2.1 - Career Development 
+# WEB - 2.1 - Applied JavaScript 
 
 ## <span style="color:red">Overview</span>
 
