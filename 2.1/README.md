@@ -6,6 +6,8 @@ This week is all about exposing you to applying your Javascript knowledge to the
 
 ## Module 1: DOM I
 
+-   **[https://github.com/LambdaSchool/DOM-I](https://github.com/beatlesm/DOM-I)**
+
 Now that we can build a basic static web page with HTML and CSS, we need to add functionality. The first step in building vibrant, dynamic web pages and applications is learning about the DOM. What it is, how it affects our page, and how to access and manipulate it. DOM manipulation is at the core of every framework, and before we start using frameworks, we need to understand the DOM.
 
 ## Module 2: DOM II
