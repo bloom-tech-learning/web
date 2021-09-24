@@ -12,19 +12,25 @@ Now that we can build a basic static web page with HTML and CSS, we need to add 
 
 ## [Module 2: DOM II](https://github.com/beatlesm/web/tree/main/2.1/project212)
 
+-   **[https://github.com/LambdaSchool/DOM-II](https://github.com/LambdaSchool/DOM-II)**
+
 Events are the way web users interact with the page. Any time there is some interaction through a mouse, keyboard, etc., the DOM creates and propagates an event object. This event object carries information about the event to be handled at any point up the tree from the point of origin.
 
 ## [Module 3: Components I](https://github.com/beatlesm/web/tree/main/2.1/project213)
+
+-   **[https://github.com/LambdaSchool/Newsfeed-Components](https://github.com/LambdaSchool/Newsfeed-Components)**
 
 As we build larger and more feature-rich web pages, we may notice a trend in our code; elements essentially using the same functionality and styling with minor differences in the data they present. To keep our code readable, reusable, and most of all DRY, we can build on these repeating patterns and create components. Components are reusable pieces of code that can be used to build elements sharing functionality and styling. Components are the heart of any dynamic web application and JavaScript framework.
 
 ## [Module 4: Components II](https://github.com/beatlesm/web/tree/main/2.1/project214)
 
+-   **[https://github.com/LambdaSchool/Newsfeed-Components](https://github.com/LambdaSchool/Newsfeed-Components)**
+
 Now that we understand what a component is, we can learn to utilize asynchronous JavaScript and Promises to make HTTP requests and get data from a server.
 
 ## [Module 5: Sprint Challenge and Assessment](https://github.com/beatlesm/web/tree/main/2.1/sprint21)
 
-
+-   **[https://github.com/LambdaSchool/Newsfeed-Components](https://github.com/LambdaSchool/Newsfeed-Components)**
 
 -------------------------------------------------------------------
 
