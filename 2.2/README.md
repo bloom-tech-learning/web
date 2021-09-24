@@ -7,32 +7,38 @@ Welcome to the beginning of your professional journey as a Web Developer or Data
 
 This week, we'll be kick off your professional development with the following modules:
 
-## Module 1: Get to Know Your Career Path
+# WEB - 2.2 - Intro to React
 
-Like many students before you, you decided to come to Lambda School to pursue a technical career. Every Lambda School student's journey is unique, with each of your stories informing how you'll approach your individual career development. Your personal story and path is also what you'll use to answer future interview questions like, "Tell me a little bit about yourself", or "What made you decide to become a (Data Scientist) or (Web Developer)"?
+## <span style="color:red">Overview</span>
 
-Before we get into interviewing and answering those questions, we'll use this first career module as an opportunity to explore the different paths where your career journey could take you. To do so, we'll teach you about trends in the tech field and facts about careers related to the curriculum track you've chosen to study.
+React is a UI library that is used in various forms to create complex, rich user interfaces. Facebook needed to build something that could power their user experiences in such a way that was decoupled and unconcerned when and where the data was received.
 
-## Module 2: Resume and LinkedIn Fundamentals
+React is one of the most popular UI libraries today, and in terms of Single Page Applications, many (including the React team) tend to think of the library as the "V" in MVC. That is the View layer of the Model, View, Controller paradigm. React is a pattern, a mindset, that will help developers build small, reusable pieces of UI that can be easily put together to make a large-scale application.
 
-Your resume and LinkedIn profile are often your first impression or introduction to a potential employer or hiring manager. If getting a job were to be compared to a movie, your resume and LinkedIn are the teaser trailer. These two professional artifacts should hook viewers in and get them excited to learn more about you and your story. It may seem early to think about these two artifacts, but now is the time to create a foundation. In this module, we'll ensure you know how to begin writing a technical resume, and establish a compelling profile on LinkedIn.
+## Module 1: React Components and Component State
 
-## Module 3: Establishing and Maintaining a Network
+Components are the building blocks of React applications. We use components to display some data (often called "state") to the screen for our users. This module will teach how to build components that can hold state to create an excellent experience for our end users.
 
-Think about the closest relationships you've had with family members, friends, coworkers, classmates, or teachers. Chances are, these relationships didn’t form after just one or two interactions. Instead, they were built over months and years. Establishing strong relationships within your professional network will need the same effort, time and care. In this module, you'll learn how to identify new contacts and bring them into your network, while keeping up with those who are already part of your network.
+## Module 2: Composing React Components and Passing Data Via Props
 
-## Module 4: Interviewing Basics
+As you build more extensive applications, you'll want to start splitting up your app into smaller pieces so that it is easier to work on and maintain. These small pieces you will build are called components. Components will need to share state, so we will learn to do this with a helper object called props.
 
-[Interviewing is both an art and a science. At the core of interviewing is your ability to articulate stories that show your talent, skills, accomplishments, and character. To help you excel in interviews, we're going to teach you how to reflect upon your experiences and deliver polished stories that address a variety of behavioral or technical interview questions. The only way to get better at interviewing is through practice!
+## Module 3: Component Side Effects
 
-## Module 5: Sprint Challenge and Assessment
+Side effects in web apps are very common. Therefore, it's essential to understand what side effects are to handle them properly in our components.
 
-This sprint focused on the fundamentals of career readiness. For your sprint challenge, you will build off of the foundations you set throughout the sprint to create a personalized career development plan that is tailored to your unique goals, experiences, and interests. This plan will consist of a set of goals that you can use to shape how you go about maintaining your career materials, building your network, and articulating your skills and experience, all of which you will continue to practice and grow in throughout the rest of Lambda School.
+## Module 4: Advanced Styling Techniques
+
+CSS by itself can be hard to scale in large applications. In this module, we will see multiple libraries that have been built to help us style our apps in a much more scalable way.
+
+## Sprint 2.2: Sprint Challenge and Assessment
+
+
 
 -------------------------------------------------------------------
 
 ## Resources
  
--   **[https://www.pramp.com](https://www.pramp.com)**
--   **[https://www.codewars.com/](https://www.codewars.com/)**
--   **[https://www.hackrank.com](https://www.hackrank.com)**
+-   **[https://www.pramp.com]()**
+-   **[https://www.codewars.com/]()**
+-   **[https://www.hackrank.com]()**
