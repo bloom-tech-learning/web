@@ -24,7 +24,7 @@ As we build larger and more feature-rich web pages, we may notice a trend in our
 
 ## [Module 4: Components II](https://github.com/beatlesm/web/tree/main/2.1/project214)
 
--   **[https://github.com/LambdaSchool/Newsfeed-Components](https://github.com/LambdaSchool/Newsfeed-Components)**
+-   **[https://github.com/LambdaSchool/github-usercard](https://github.com/LambdaSchool/github-usercard)**
 
 Now that we understand what a component is, we can learn to utilize asynchronous JavaScript and Promises to make HTTP requests and get data from a server.
 
