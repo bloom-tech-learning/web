@@ -8,6 +8,8 @@ React is one of the most popular UI libraries today, and in terms of Single Page
 
 ## Module 1: React Components and Component State
 
+-   **[https://github.com/LambdaSchool/react-stateful-widgets](https://github.com/LambdaSchool/react-stateful-widgets)**
+
 Components are the building blocks of React applications. We use components to display some data (often called "state") to the screen for our users. This module will teach how to build components that can hold state to create an excellent experience for our end users.
 
 ## Module 2: Composing React Components and Passing Data Via Props
