@@ -14,13 +14,19 @@ Components are the building blocks of React applications. We use components to d
 
 ## Module 2: Composing React Components and Passing Data Via Props
 
+-   **[https://github.com/LambdaSchool/React-Components-Insta-Clone](https://github.com/LambdaSchool/React-Components-Insta-Clone)**
+
 As you build more extensive applications, you'll want to start splitting up your app into smaller pieces so that it is easier to work on and maintain. These small pieces you will build are called components. Components will need to share state, so we will learn to do this with a helper object called props.
 
 ## Module 3: Component Side Effects
 
+-   **[https://github.com/LambdaSchool/nasa-photo-of-the-day](https://github.com/LambdaSchool/nasa-photo-of-the-day)**
+
 Side effects in web apps are very common. Therefore, it's essential to understand what side effects are to handle them properly in our components.
 
 ## Module 4: Advanced Styling Techniques
+
+-   **[https://github.com/LambdaSchool/nasa-photo-of-the-day](https://github.com/LambdaSchool/nasa-photo-of-the-day)**
 
 CSS by itself can be hard to scale in large applications. In this module, we will see multiple libraries that have been built to help us style our apps in a much more scalable way.
 
