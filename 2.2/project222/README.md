@@ -1,6 +1,6 @@
 # Module 2: React-Components-Insta-Clone
 
--   **[https://github.com/LambdaSchool/React-Components-Insta-Clone](https://github.com/LambdaSchool/React-Components-Insta-Clone)**
+-   **[https://github.com/beatlesm/React-Components-Insta-Clone](https://github.com/beatlesm/React-Components-Insta-Clone)**
 
 ## Composing React Components and Passing Data Via Props
 
