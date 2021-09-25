@@ -39,7 +39,7 @@ By the end of the day you should be familiar with objects and how to use Constru
 
 ## [Sprint](https://github.com/beatlesm/web/tree/main/1.3/sprint13)
 
-[https://github.com/beatlesm/web-sprint-challenge-javascript-fundamentals](https://github.com/beatlesm/web-sprint-challenge-javascript-fundamentals)
+[https://github.com/LambdaSchool/web-sprint-challenge-javascript-fundamentals](https://github.com/LambdaSchool/web-sprint-challenge-javascript-fundamentals)
 
 
 -------------------------------------------------------------------
