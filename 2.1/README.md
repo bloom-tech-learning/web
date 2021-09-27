@@ -12,7 +12,7 @@ Guided project for **DOM 1** Module.
 
 -   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
 
--   **[Web 48 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
+-   **[Youtube - Web 48 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
 
 Now that we can build a basic static web page with HTML and CSS, we need to add functionality. The first step in building vibrant, dynamic web pages and applications is learning about the DOM. What it is, how it affects our page, and how to access and manipulate it. DOM manipulation is at the core of every framework, and before we start using frameworks, we need to understand the DOM.
 
