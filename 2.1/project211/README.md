@@ -2,6 +2,8 @@
 
 -   **[https://github.com/beatlesm/DOM-I](https://github.com/beatlesm/DOM-I)
 
+-   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)
+
 ## Project Description
 
 You are going to be emulating a content management system by controlling the content in the JavaScript file instead of the HTML file. This project is an exercise pointed at selecting elements and then updating them without touching the HTML file using the DOM.
