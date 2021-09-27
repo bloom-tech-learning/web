@@ -2,6 +2,8 @@
 
 Guided project for **DOM 1** Module.
 
+-   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)
+
 In this project we will learn how to use a variety of DOM selectors and manipulate the DOM imperatively.
 
 ## Prerequisites
