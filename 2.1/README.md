@@ -10,7 +10,7 @@ This week is all about exposing you to applying your Javascript knowledge to the
 
 Guided project for **DOM 1** Module.
 
--   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)
+-   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
 
 -   **[Web 48 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
 
