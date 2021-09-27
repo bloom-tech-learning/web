@@ -40,6 +40,9 @@ Now that we understand what a component is, we can learn to utilize asynchronous
 
 ## Resources
  
--   **[https://www.pramp.com]()**
--   **[https://www.codewars.com/]()**
--   **[https://www.hackrank.com]()**
+```sh
+rm -rf node_modules
+rm package-lock.json
+npm install
+
+```
