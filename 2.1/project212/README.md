@@ -2,9 +2,15 @@
 
 - **[https://github.com/LambdaSchool/DOM-II](https://github.com/LambdaSchool/DOM-II)**
 
+- **[https://212.beatlesm.com](https://212.beatlesm.com)**
+
 - **[https://github.com/LambdaSchool/web-guided-project-dom-2](https://github.com/LambdaSchool/web-guided-project-dom-2)**
 
+- **[https://212g.beatlesm.com](https://212g.beatlesm.com)**
+
 - **[https://github.com/LambdaSchool/Preprocessing-I](https://github.com/LambdaSchool/Preprocessing-I)**
+
+- **[https://resume.beatlesm.com](https://resume.beatlesm.com)**
 
 Fun Bus wants you to make their site more interactive. They are relying on you to provide 10 unique events to enhance their site. Explore the many events available to you by using the [MDN events reference](https://developer.mozilla.org/en-US/docs/Web/Events).
 
