@@ -51,6 +51,8 @@ document.addEventListener('click', function(event) {
 // What is the main difference between function declaration and function expression?? -> function declarations are hoisted...
 function launch() {
     modal.classList.remove('off');
+    successMessage.classList.add('off');
+    failureMessage.classList.add('off');
 }
 launchButton.addEventListener('click', launch);
 
@@ -61,16 +63,36 @@ function confirm() {
     successMessage.classList.remove('off');
     modal.classList.add('off');
 }
-
 confirmButton.addEventListener('click', confirm);
 // 👉 TASK 5- Create a function to cancel the launch.
 // It should close the modal and display a failure report.
 // Add it as a listener for clicks on the cancellation button.
-
-
+function cancel() {
+    failureMessage.classList.remove('off');
+    modal.classList.add('off');
+}
+cancelButton.addEventListener('click', cancel);
 // 👉 TASK 6- Create a function that closes the modal if
 // the user hits the Escape key on their keyboard.
 // Add it as an event listener for 'keydown' events on document.
+function escKey(event) {
+    if (event.key === 'Escape') {
+        modal.classList.add('off');
+    }
+}
+document.addEventListener('keydown', escKey);
+
+
+Array.from(document.links).forEach(link => {
+    link.addEventListener('click', function(event) {
+        event.preventDefault();
+    })
+})
+
+modal.addEventListener('click', function(event) {
+    console.log('Look ma! No more propagation!!');
+    event.stopPropagation();
+})
 
 
 // 👉 TASK 7- Add to ALL ELEMENTS ON THE PAGE an event listener for click events.
