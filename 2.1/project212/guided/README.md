@@ -2,7 +2,7 @@
 
 ## Instructions to run this project
 
-- **[https://github.com/LambdaSchool/web-guided-project-dom-2](https://github.com/LambdaSchool/web-guided-project-dom-2)**
+- **[https://github.com/beatlesm/web-guided-project-dom-2](https://github.com/beatlesm/web-guided-project-dom-2)**
 
 - Clone the project from Github
 - Using your command line, navigate into the project folder
