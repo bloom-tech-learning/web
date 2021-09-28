@@ -1,6 +1,6 @@
 # DOM II - Event Exploration
 
-- **[https://github.com/beatlesm/DOM-II](https://github.com/beatlesm/DOM-II)**
+- **[https://github.com/LambdaSchool/DOM-II](https://github.com/LambdaSchool/DOM-II)**
 
 - **[https://github.com/LambdaSchool/web-guided-project-dom-2](https://github.com/LambdaSchool/web-guided-project-dom-2)**
 
