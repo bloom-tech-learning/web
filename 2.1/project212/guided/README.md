@@ -4,6 +4,12 @@
 
 - **[https://github.com/beatlesm/web-guided-project-dom-2](https://github.com/beatlesm/web-guided-project-dom-2)**
 
+- **[https://212.beatlesm.com](https://212.beatlesm.com)**
+
+- **[https://212g.beatlesm.com](https://212.beatlesm.com)**
+
+- **[https://resume.beatlesm.com](https://212.beatlesm.com)**
+
 - Clone the project from Github
 - Using your command line, navigate into the project folder
 - Run `npm install`. This downloads all dependencies listed in the `package.json` file
