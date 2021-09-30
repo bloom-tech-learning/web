@@ -36,11 +36,13 @@ Now that we understand what a component is, we can learn to utilize asynchronous
 
 ## [Module 5: Sprint Challenge and Assessment](https://github.com/beatlesm/web/tree/main/2.1/sprint21)
 
--   **[https://github.com/LambdaSchool/Newsfeed-Components](https://github.com/LambdaSchool/Newsfeed-Components)**
+-   **[https://github.com/beatlesm/web-sprint-challenge-applied-javascript](https://github.com/beatlesm/web-sprint-challenge-applied-javascript)**
 
 -------------------------------------------------------------------
 
 ## Resources
+
+-   **[https://exploringjs.com/es6/](https://exploringjs.com/es6/)**
  
 ```sh
 rm -rf node_modules
