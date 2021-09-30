@@ -1,5 +1,7 @@
 # WEB - 2.1 - Applied JavaScript 
 
+
+
 ## <span style="color:red">Overview</span>
 
 This week is all about exposing you to applying your Javascript knowledge to the Document Object Model (DOM) and creating rich Javascript user interfaces.
@@ -36,7 +38,7 @@ Now that we understand what a component is, we can learn to utilize asynchronous
 
 ## [Module 5: Sprint Challenge and Assessment](https://github.com/beatlesm/web/tree/main/2.1/sprint21)
 
--   **[https://github.com/beatlesm/web-sprint-challenge-applied-javascript](https://github.com/beatlesm/web-sprint-challenge-applied-javascript)**
+-   **[https://github.com/LambdaSchool/web-sprint-challenge-applied-javascript](https://github.com/LambdaSchool/web-sprint-challenge-applied-javascript)**
 
 -------------------------------------------------------------------
 
