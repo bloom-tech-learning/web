@@ -1,4 +1,6 @@
-# Newsfeed-Components
+# Module 3: - Newsfeed-Components
+
+-   **[https://github.com/beatlesm/Newsfeed-Components](https://github.com/beatlesm/Newsfeed-Components)**
 
 In this project we are going to be building a news feed reader. The goal is to have a collapsing menu, and expandable news articles. The styles and some of the HTML is already done for you.
 

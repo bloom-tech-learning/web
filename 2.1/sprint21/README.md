@@ -1,8 +1,8 @@
 # Web 2.1 Sprint - Applied JavaScript Sprint Challenge
 
--   **[https://github.com/beatlesm/web-sprint-challenge-applied-javascript](https://github.com/beatlesm/web-sprint-challenge-applied-javascript)**
-
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
+
+-   **[https://github.com/beatlesm/web-sprint-challenge-applied-javascript](https://github.com/beatlesm/web-sprint-challenge-applied-javascript)**
 
 This challenge allows you to practice the concepts and techniques learned over the past sprint and apply them in a concrete project. This sprint explored **Applied JavaScript**. During this sprint, you studied **DOM and components**. In your challenge this week, you will demonstrate your mastery of these skills by creating **an online Lambda newspaper**.
 

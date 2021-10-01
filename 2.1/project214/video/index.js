@@ -1,4 +1,4 @@
-const URL = 'https://api.thedogapi.com/v1/bregjgjkjkgkjeds/';
+/* const URL = 'https://api.thedogapi.com/v1/bregjgjkjkgkjeds/';
 
 
 const grabTheData = (event) => {
@@ -14,4 +14,25 @@ const grabTheData = (event) => {
 }
 
 
-theButton.addEventListener('click', grabTheData);
+document.addEventListener('click', grabTheData); */
+
+setTimeout( () => {
+    console.log('Hello!');
+}, 1000);
+
+console.log('Over here!');
+
+let time = 0;
+const timeMachine = () => {
+  return setTimeout(() => {
+    return time += 1000;
+  }, 1000);
+};
+
+timeMachine();
+console.log(time); 
+
+setTimeout( () => {
+    console.log(time); 
+}, 2000);
+
