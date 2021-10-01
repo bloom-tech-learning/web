@@ -1,4 +1,12 @@
-const Tabs = (topics) => {
+// import and Object destructure 
+import {topics} from "../mocks/data";
+
+//Extract the topics array from Object topics
+const topicsArr = topics.topics;
+
+// console.log('topicsArr',topicsArr);
+
+const Tabs = (topic) => {
   // TASK 3
   // ---------------------
   // Implement this function which takes an array of strings ("topics") as its only argument.
@@ -12,7 +20,19 @@ const Tabs = (topics) => {
   //   <div class="tab">bootstrap</div>
   //   <div class="tab">technology</div>
   // </div>
-  //
+  //Instantiate all the elements needed for Tabs part
+    const topicsSec = document.createElement('div');
+    topicsSec.classList.add('topics');
+    let tab = [];
+    
+    for (let i = 0; i < topic.length; i++) {
+        tab[i] = document.createElement('div');
+        tab[i].textContent = topic[i];
+        tab[i].classList.add('tab');
+        topicsSec.appendChild(tab[i]);
+    }
+    //console.log('topicsSec', topicsSec);
+    return topicsSec;
 }
 
 const tabsAppender = (selector) => {
@@ -23,6 +43,9 @@ const tabsAppender = (selector) => {
   // Find the array of topics inside the response, and create the tabs using the Tabs component.
   // Append the tabs to the element in the DOM that matches the selector passed to the function.
   //
+  
+  const topicsPart = Tabs(topicsArr);
+  document.querySelector(selector).appendChild(topicsPart);
 }
 
 export { Tabs, tabsAppender }
