@@ -32,12 +32,8 @@ CSS by itself can be hard to scale in large applications. In this module, we wil
 
 ## Sprint 2.2: Sprint Challenge and Assessment
 
-
-
 -------------------------------------------------------------------
 
 ## Resources
  
--   **[https://www.pramp.com]()**
--   **[https://www.codewars.com/]()**
--   **[https://www.hackrank.com]()**
+-   
