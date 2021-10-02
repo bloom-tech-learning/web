@@ -1,4 +1,4 @@
-# DOM II - Event Exploration
+# Module 2: DOM II - Event Exploration
 
 - **[https://github.com/beatlesm/DOM-II](https://github.com/beatlesm/DOM-II)**
 
