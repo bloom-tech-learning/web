@@ -1,6 +1,8 @@
 
-# Web Learning
+# Web 
 
-🌱 I’m currently learning ... [https://wesbos.com/javascript30](https://wesbos.com/javascript30)
+[Back home] (https://github.com/beatlesm)
 
--   **[https://wesbos.com/javascript](https://wesbos.com/javascript)**
+[javascript30](https://wesbos.com/javascript30)
+
+[javascript](https://wesbos.com/javascript)**
