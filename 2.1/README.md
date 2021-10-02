@@ -21,7 +21,6 @@ Now that we can build a basic static web page with HTML and CSS, we need to add 
 
 - **[https://github.com/LambdaSchool/DOM-II](https://github.com/LambdaSchool/DOM-II)**
 
-
 ### Guided project and youtube:
 
 -   **[https://github.com/LambdaSchool/web-guided-project-dom-2](https://github.com/LambdaSchool/web-guided-project-dom-2)**

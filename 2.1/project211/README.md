@@ -2,9 +2,15 @@
 
 -   **[https://github.com/beatlesm/DOM-I](https://github.com/beatlesm/DOM-I)
 
--   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)
+-   **[https://github.com/LambdaSchool/DOM-I](https://github.com/beatlesm/DOM-I)**
 
--   **[Web 48 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)
+### Guided project and youtube:
+
+-   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)**
+
+-   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
+
+-   **[Youtube - Web 48 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
 
 ## Project Description
 
