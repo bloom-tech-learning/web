@@ -9,7 +9,7 @@ This week is all about exposing you to applying your Javascript knowledge to the
 
 -   **[https://github.com/LambdaSchool/DOM-I](https://github.com/beatlesm/DOM-I)**
 
--   **Guided project and youtube:**
+### Guided project and youtube:
 
 -   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
 
@@ -19,9 +19,12 @@ Now that we can build a basic static web page with HTML and CSS, we need to add 
 
 ## [Module 2: DOM II](https://github.com/beatlesm/web/tree/main/2.1/project212)
 
--   **Guided project and youtube:**
-
 - **[https://github.com/LambdaSchool/DOM-II](https://github.com/LambdaSchool/DOM-II)**
+
+
+### Guided project and youtube:
+
+-   **[https://github.com/LambdaSchool/web-guided-project-dom-2](https://github.com/LambdaSchool/web-guided-project-dom-2)**
 
 - **[Youtube - Unit 2 Orientation](https://www.youtube.com/watch?v=JmOd-2XqX7A)**
 
@@ -29,9 +32,11 @@ Events are the way web users interact with the page. Any time there is some inte
 
 ## [Module 3: Components I](https://github.com/beatlesm/web/tree/main/2.1/project213)
 
--   **Guided project and youtube:**
-
 -   **[https://github.com/LambdaSchool/Newsfeed-Components](https://github.com/LambdaSchool/Newsfeed-Components)**
+
+### Guided project and youtube:
+
+-   **[https://github.com/LambdaSchool/web-guided-project-components-1](https://github.com/LambdaSchool/web-guided-project-components-1)**
 
 -   **[Youtube - Web 48 - Components 1 Guided Practice](https://youtu.be/LN7HkHVfTeo)**
 
@@ -39,9 +44,11 @@ As we build larger and more feature-rich web pages, we may notice a trend in our
 
 ## [Module 4: Components II](https://github.com/beatlesm/web/tree/main/2.1/project214)
 
--   **Guided project and youtube:**
-
 -   **[https://github.com/LambdaSchool/github-usercard](https://github.com/LambdaSchool/github-usercard)**
+
+### Guided project and youtube:
+
+-   **[https://github.com/LambdaSchool/web-guided-project-components-2](https://github.com/LambdaSchool/web-guided-project-components-2)**
 
 -   **[Youtube - Web48 - Components 2 Guided practice](https://www.youtube.com/watch?v=hemiMfKqmIk)**
 
