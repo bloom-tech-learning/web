@@ -19,7 +19,7 @@ React is one of the most popular UI libraries today, and in terms of Single Page
 
 -   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
 
--   **[Youtube - Web 48 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
+-   **[Youtube - Web 2.2 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
 
 Components are the building blocks of React applications. We use components to display some data (often called "state") to the screen for our users. This module will teach how to build components that can hold state to create an excellent experience for our end users.
 
@@ -35,7 +35,7 @@ Components are the building blocks of React applications. We use components to d
 
 -   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
 
--   **[Youtube - Web 48 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
+-   **[Youtube - Web 2.2 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
 
 As you build more extensive applications, you'll want to start splitting up your app into smaller pieces so that it is easier to work on and maintain. These small pieces you will build are called components. Components will need to share state, so we will learn to do this with a helper object called props.
 
@@ -50,7 +50,7 @@ As you build more extensive applications, you'll want to start splitting up your
 
 -   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
 
--   **[Youtube - Web 48 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
+-   **[Youtube - Web 2.2 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
 
 Side effects in web apps are very common. Therefore, it's essential to understand what side effects are to handle them properly in our components.
 
@@ -66,7 +66,7 @@ Side effects in web apps are very common. Therefore, it's essential to understan
 
 -   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
 
--   **[Youtube - Web 48 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
+-   **[Youtube - Web 2.2 - - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
 
 CSS by itself can be hard to scale in large applications. In this module, we will see multiple libraries that have been built to help us style our apps in a much more scalable way.
 
