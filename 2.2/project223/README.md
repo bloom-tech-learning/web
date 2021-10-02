@@ -1,6 +1,17 @@
 # Module 3: Component Side Effects- NASA APOD
 
+-   **[https://github.com/LambdaSchool/nasa-photo-of-the-day](https://github.com/LambdaSchool/nasa-photo-of-the-day)**
+
 -   **[https://github.com/beatlesm/nasa-photo-of-the-day](https://github.com/beatlesm/nasa-photo-of-the-day)**
+
+### Guided project and youtube:
+
+-   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)**
+
+-   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
+
+-   **[Youtube - Web 2.2 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
+
 
 This will be a two-module project. In it you will consume the NASA API to fetch the "Astronomy Photo Of The Day" or APOD. Once you fetch the data, you will build a few components that will render different pieces of data in your interface. After the second module (in the [DAY_TWO_README.md](DAY_TWO_README.md) file) you will re-style your app using [Styled Components](https://github.com/LambdaSchool/nasa-photo-of-the-day.git).
 

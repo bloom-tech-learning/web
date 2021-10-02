@@ -1,6 +1,18 @@
 # Module 2.2.1: React Components and Components State
 
+## [Module 1: React Components and Component State](https://github.com/beatlesm/web/tree/main/2.2/project221)
+
+-   **[https://github.com/LambdaSchool/react-stateful-widgets](https://github.com/LambdaSchool/react-stateful-widgets)**
+
 -   **[https://github.com/beatlesm/react-stateful-widgets](https://github.com/beatlesm/react-stateful-widgets)**
+
+### Guided project and youtube:
+
+-   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)**
+
+-   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
+
+-   **[Youtube - Web 2.2 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
 
 This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored React components and component state. During the module, you studied what React is, what React components are and how to build them, what state is and how to make a component stateful, and how to update component state with click handlers. In this project you will demonstrate proficiency of these subjects and principles by fleshing out several stateful components.
 

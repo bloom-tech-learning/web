@@ -1,7 +1,17 @@
 
 # Module 4: NASA APOD Part II - Advanced Styling Techniques
 
+-   **[https://github.com/LambdaSchool/nasa-photo-of-the-day](https://github.com/LambdaSchool/nasa-photo-of-the-day)**
+
 -   **[https://github.com/beatlesm/nasa-photo-of-the-day](https://github.com/beatlesm/nasa-photo-of-the-day)**
+
+### Guided project and youtube:
+
+-   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)**
+
+-   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
+
+-   **[Youtube - Web 2.2 - - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
 
 In this project you will refactor the styling you completed in the APOD app. You will style it using [Styled Components](https://github.com/LambdaSchool/nasa-photo-of-the-day.git), although you are welcome to _also_ use one or two [Reactstrap](https://reactstrap.github.io/) components if you wish.
 
