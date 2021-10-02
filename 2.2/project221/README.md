@@ -1,4 +1,4 @@
-# Module 2.1.1: React Components and Components State
+# Module 2.2.1: React Components and Components State
 
 -   **[https://github.com/beatlesm/react-stateful-widgets](https://github.com/beatlesm/react-stateful-widgets)**
 
