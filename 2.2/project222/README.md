@@ -1,6 +1,16 @@
 # Module 2: React-Components-Insta-Clone
 
+-   **[https://github.com/LambdaSchool/React-Components-Insta-Clone](https://github.com/LambdaSchool/React-Components-Insta-Clone)**
+
 -   **[https://github.com/beatlesm/React-Components-Insta-Clone](https://github.com/beatlesm/React-Components-Insta-Clone)**
+
+### Guided project and youtube:
+
+-   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)**
+
+-   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
+
+-   **[Youtube - Web 2.2 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
 
 ## Composing React Components and Passing Data Via Props
 
