@@ -2,6 +2,8 @@
 
 -   **[https://github.com/beatlesm/Newsfeed-Components](https://github.com/beatlesm/Newsfeed-Components)**
 
+-   **[Web 48 - Components 1 Guided Practice](https://youtu.be/LN7HkHVfTeo)**
+
 In this project we are going to be building a news feed reader. The goal is to have a collapsing menu, and expandable news articles. The styles and some of the HTML is already done for you.
 
 ## Need to know

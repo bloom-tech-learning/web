@@ -4,6 +4,8 @@
 
 -   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)
 
+-   **[Web 48 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)
+
 ## Project Description
 
 You are going to be emulating a content management system by controlling the content in the JavaScript file instead of the HTML file. This project is an exercise pointed at selecting elements and then updating them without touching the HTML file using the DOM.
