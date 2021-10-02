@@ -1,7 +1,6 @@
 # WEB - 2.1 - Applied JavaScript 
 
 
-
 ## <span style="color:red">Overview</span>
 
 This week is all about exposing you to applying your Javascript knowledge to the Document Object Model (DOM) and creating rich Javascript user interfaces.
@@ -10,7 +9,7 @@ This week is all about exposing you to applying your Javascript knowledge to the
 
 -   **[https://github.com/LambdaSchool/DOM-I](https://github.com/beatlesm/DOM-I)**
 
-Guided project for **DOM 1** Module.
+-   **Guided project and youtube:**
 
 -   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
 
@@ -20,13 +19,17 @@ Now that we can build a basic static web page with HTML and CSS, we need to add 
 
 ## [Module 2: DOM II](https://github.com/beatlesm/web/tree/main/2.1/project212)
 
--   **[https://github.com/LambdaSchool/DOM-II](https://github.com/LambdaSchool/DOM-II)**
+-   **Guided project and youtube:**
+
+- **[https://github.com/LambdaSchool/DOM-II](https://github.com/LambdaSchool/DOM-II)**
 
 - **[Youtube - Unit 2 Orientation](https://www.youtube.com/watch?v=JmOd-2XqX7A)**
 
 Events are the way web users interact with the page. Any time there is some interaction through a mouse, keyboard, etc., the DOM creates and propagates an event object. This event object carries information about the event to be handled at any point up the tree from the point of origin.
 
 ## [Module 3: Components I](https://github.com/beatlesm/web/tree/main/2.1/project213)
+
+-   **Guided project and youtube:**
 
 -   **[https://github.com/LambdaSchool/Newsfeed-Components](https://github.com/LambdaSchool/Newsfeed-Components)**
 
@@ -35,6 +38,8 @@ Events are the way web users interact with the page. Any time there is some inte
 As we build larger and more feature-rich web pages, we may notice a trend in our code; elements essentially using the same functionality and styling with minor differences in the data they present. To keep our code readable, reusable, and most of all DRY, we can build on these repeating patterns and create components. Components are reusable pieces of code that can be used to build elements sharing functionality and styling. Components are the heart of any dynamic web application and JavaScript framework.
 
 ## [Module 4: Components II](https://github.com/beatlesm/web/tree/main/2.1/project214)
+
+-   **Guided project and youtube:**
 
 -   **[https://github.com/LambdaSchool/github-usercard](https://github.com/LambdaSchool/github-usercard)**
 
