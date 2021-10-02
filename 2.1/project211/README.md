@@ -1,6 +1,6 @@
-# DOM I - JavaScript Content Management System
+# Module 1: DOM I - JavaScript Content Management System
 
--   **[https://github.com/beatlesm/DOM-I](https://github.com/beatlesm/DOM-I)
+-   **[https://github.com/beatlesm/DOM-I](https://github.com/beatlesm/DOM-I)**
 
 -   **[https://github.com/LambdaSchool/DOM-I](https://github.com/beatlesm/DOM-I)**
 
