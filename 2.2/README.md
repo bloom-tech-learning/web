@@ -13,13 +13,13 @@ React is one of the most popular UI libraries today, and in terms of Single Page
 
 -   **[https://github.com/LambdaSchool/react-stateful-widgets](https://github.com/LambdaSchool/react-stateful-widgets)**
 
-### Guided project and youtube:
+### Guided project:
 
--   **[Guided Project 2.2.1](https://github.com/beatlesm/web-guided-project-dom-1)**
+-   **[https://github.com/beatlesm/web-guided-project-react-components-1](https://github.com/beatlesm/web-guided-project-react-components-1)**
 
 -   **[https://github.com/LambdaSchool/web-guided-project-react-components-1](https://github.com/LambdaSchool/web-guided-project-react-components-1)**
 
--   **[Youtube - Web 2.2 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
+-   **[Youtube - Module 2.2.1: React Components and Component State](https://lambdaschool.zoom.us/rec/share/DA58s4VKCT1pznff1mYOQj35ofKYuhMcGfWD4t3ixRwDEcQFZjN_jqJ39ZquBkUz.4hHSL0FQEnk3w1Sf?startTime=1633366667000)**
 
 Components are the building blocks of React applications. We use components to display some data (often called "state") to the screen for our users. This module will teach how to build components that can hold state to create an excellent experience for our end users.
 
