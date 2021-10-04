@@ -1,7 +1,7 @@
 # WEB - 2.2 - Intro to React
+[back to home](https://github.com/beatlesm/)
 
 ## <span style="color:red">Overview</span>
-[back to home](https://github.com/beatlesm/)
 
 React is a UI library that is used in various forms to create complex, rich user interfaces. Facebook needed to build something that could power their user experiences in such a way that was decoupled and unconcerned when and where the data was received.
 

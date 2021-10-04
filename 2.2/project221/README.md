@@ -1,4 +1,4 @@
-# Module 2.2
+# Module 2.2.1 - React Components and Component States
 
 [back to home](https://github.com/beatlesm/)
 
@@ -8,7 +8,7 @@
 
 -   **[https://github.com/beatlesm/react-stateful-widgets](https://github.com/beatlesm/react-stateful-widgets)**
 
-### Guided project and youtube:
+#### Guided project and youtube:
 
 -   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)**
 
