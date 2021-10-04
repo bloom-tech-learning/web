@@ -16,11 +16,11 @@
 
 -   **[Youtube - Web 2.2 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
 
-# Module 2.2 - Objective 1 - Describe ReactJS and the Problems that it Tries to Solve
+### Objective 1 - Describe ReactJS and the Problems that it Tries to Solve
 
-# Module 2.2 - Objective 2 - Explain What Components are and How They Work in React
+### Objective 2 - Explain What Components are and How They Work in React
 
-# Module 2.2 - Objective 3 - Explain What State is in Web Applications and Demonstrate How to Make a React Component Stateful
+### Objective 3 - Explain What State is in Web Applications and Demonstrate How to Make a React Component Stateful
 
-# Module 2.2 - Objective 4 - Change the State of the Component With a Click Listener
+### Objective 4 - Change the State of the Component With a Click Listener
 
