@@ -9,13 +9,15 @@ React is one of the most popular UI libraries today, and in terms of Single Page
 
 ## [Module 1: React Components and Component State](https://github.com/beatlesm/web/tree/main/2.2/Module221)
 
--   **[https://github.com/LambdaSchool/react-stateful-widgets](https://github.com/LambdaSchool/react-stateful-widgets)**
+-   **[Assignment 2.2.1](https://github.com/beatlesm/web/tree/main/2.2/Module221/assignment)**
 
 -   **[https://github.com/beatlesm/react-stateful-widgets](https://github.com/beatlesm/react-stateful-widgets)**
 
+-   **[https://github.com/LambdaSchool/react-stateful-widgets](https://github.com/LambdaSchool/react-stateful-widgets)**
+
 ### Guided project and youtube:
 
--   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)**
+-   **[Guided Project 2.2.1](https://github.com/beatlesm/web-guided-project-dom-1)**
 
 -   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
 
