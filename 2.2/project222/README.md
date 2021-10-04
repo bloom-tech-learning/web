@@ -4,7 +4,7 @@
 
 -   **[https://github.com/beatlesm/React-Components-Insta-Clone](https://github.com/beatlesm/React-Components-Insta-Clone)**
 
-### Guided project and youtube:
+#### Guided project and youtube:
 
 -   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)**
 
