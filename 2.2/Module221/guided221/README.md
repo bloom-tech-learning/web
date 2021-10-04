@@ -2,6 +2,12 @@
 
 ## Running this project
 
+### Objectives:
+-   1.) What is React and what problems does it solve?
+-   2.) A more formal introduction to components.
+-   3.) State as it pertains to programs in general, then state in a React component.
+-   4.) User interaction to update state.
+
 This project is set up with [Parcel Bundler](https://parceljs.org/), an npm package
 that compiles our frontend assets and comes with an integrated development server.
 
