@@ -1,4 +1,4 @@
-# Web 2.2 -  Module 2: React-Components-Insta-Clone
+# Module 2.2.2: React-Components-Insta-Clone
 
 -   **[https://github.com/LambdaSchool/React-Components-Insta-Clone](https://github.com/LambdaSchool/React-Components-Insta-Clone)**
 

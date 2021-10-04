@@ -1,4 +1,4 @@
-# Module 1 - React Components and Component States
+# Module 2.2.1 - React Components and Component States
 
 [back to home](https://github.com/beatlesm/)
 
