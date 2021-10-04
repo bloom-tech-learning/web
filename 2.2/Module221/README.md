@@ -4,7 +4,7 @@
 
 ## [Module 1: React Components and Component State](https://github.com/beatlesm/web/tree/main/2.2/project221)
 
-### [Assignment 2.2.1](https://github.com/beatlesm/web/tree/main/2.2/Module221/assignment)**
+### [Assignment 2.2.1](https://github.com/beatlesm/web/tree/main/2.2/Module221/assignment221):
 
 -   **[https://github.com/LambdaSchool/react-stateful-widgets](https://github.com/LambdaSchool/react-stateful-widgets)**
 
