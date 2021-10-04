@@ -12,9 +12,9 @@
 
 #### [Guided project 2.2.1 and youtube](https://github.com/beatlesm/web/tree/main/2.2/Module221/guided):
 
--   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)**
+-   **[https://github.com/beatlesm/web-guided-project-react-components-1](https://github.com/beatlesm/web-guided-project-react-components-1)**
 
--   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
+-   **[https://github.com/LambdaSchool/web-guided-project-react-components-1](https://github.com/LambdaSchool/web-guided-project-react-components-1)**
 
 -   **[Youtube - Web 2.2 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
 
