@@ -11,12 +11,18 @@
 -   **[https://github.com/beatlesm/react-stateful-widgets](https://github.com/beatlesm/react-stateful-widgets)**
 
 #### [Guided project 2.2.1 and youtube](https://github.com/beatlesm/web/tree/main/2.2/Module221/guided):
+(If running into installation issues throw your issue into the help channel!)
+Objectives:
+-   1.) What is React and what problems does it solve?
+-   2.) A more formal introduction to components.
+-   3.) State as it pertains to programs in general, then state in a React component.
+-   4.) User interaction to update state.
 
 -   **[https://github.com/beatlesm/web-guided-project-react-components-1](https://github.com/beatlesm/web-guided-project-react-components-1)**
 
 -   **[https://github.com/LambdaSchool/web-guided-project-react-components-1](https://github.com/LambdaSchool/web-guided-project-react-components-1)**
 
--   **[Youtube - Web 2.2 - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
+-   **[Youtube - Module 2.2.1: React Components and Component State]()**
 
 ### Objective 1 - Describe ReactJS and the Problems that it Tries to Solve
 
