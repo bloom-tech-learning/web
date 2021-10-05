@@ -10,35 +10,29 @@
 */
 
 // First: Import React
-import React, {useState} from "react";
-/* export default React;
-export const useState() => {} */
+import React, { useState } from 'react';
 
 // Second: Define the component (ie function)
 // function declaration ::: function name() {}
-// function expression ::: const  name = () => {}
+// function expression  ::: const name = () => {}
 
-function Playground (props) {
+function Playground(props) {
   const [count, setCount] = useState(0);
   const [spinnerOn, setSpinnerOn] = useState(false);
   const [choice, setChoice] = useState('scissors');
 
-  console.log('Playground props:',props);
-  // return 2 things:
-  //      first: state variable
-  //      second: a way to update the state variable
-  // Third: return ... something
-  // Never, ever, under any sircumstance, do this:
+  console.log(props);
+  // returns 2 things: 
+  //     first: state variable, 
+  //     second: a way to update the state variable
+  // Third: return....something
+  // Never, ever, under any circumstances, do this:
   // count++
   if (spinnerOn) {
     return (
       <div className="container">
-        <h1>Welcome to the playground!</h1>
-        <p>The current count is:  {count}</p>
         <h3>The spinner is {spinnerOn ? 'ON' : 'OFF'}.</h3>
-        <button onClick = {() => setCount(count + 1)}>Increase</button>
-        <button onClick = {() => setCount(count - 1)}>Decrease</button>
-        <button onClick={() => setSpinnerOn(false)}>Turn off Spinnah</button>        
+        <button onClick={() => setSpinnerOn(false)}>Turn off Spinnah</button>
       </div>
     )
   }
@@ -46,24 +40,34 @@ function Playground (props) {
   return (
     <div className="container">
       <h1>Welcome to the playground!</h1>
-      {/* Ternary! */}
-      {/* { props.loggedIn ? <button>Log out</button> : <button>Log in</button> } */}
-      {/* Short circuit evaluation */}
-      {/* {props.loggedIn ? <button>Log out</button> : null} */}
+      { props.loggedIn ? <button>Log out</button> : <button>Log in</button> }
+      {
+        // Ternary! 
+      }
       { props.loggedIn && <button>Log out</button> }
-      <p>The current count is:  {count}</p>
-      <h3>The spinner is {spinnerOn ? 'ON' : 'OFF'}.</h3>
-      <button onClick = {() => setCount(count + 1)}>Increase</button>
-      <button onClick = {() => setCount(count - 1)}>Decrease</button>
-      <button onClick = {() => setSpinnerOn(true)}>Turn on Spinnah</button>
-      <h3>The current weapon is: {choice}</h3>
+      {
+        // Short circuit evaluation
+      }
+      <p>The current count is: {count}</p>
+      <button onClick={() => setCount(count + 1)}>Increase</button>
+      <button onClick={() => setCount(count - 1)}>Decrease</button>
+      <button onClick={() => setSpinnerOn(true)}>Turn on Spinnah</button>
+      <h3>The current weapon is {choice}</h3>
       <button onClick={() => setChoice('scissors')}>pick scissors</button>
       <button onClick={() => setChoice('rock')}>pick rock</button>
       <button onClick={() => setChoice('paper')}>pick paper</button>
-      
-    </div>    
+    </div>
   )
 }
+
+// TERNARY FUN
+// if (a) {
+//   name = "Casey";
+// } else {
+//   name = "Robert";
+// }
+
+// name = a ? "Casey" : "Robert";
 
 // Fourth: export (expose) our component to the outside world
 export default Playground;
