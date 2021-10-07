@@ -1,5 +1,17 @@
 # Advanced Styling Techniques
 
+-   **[https://github.com/LambdaSchool/nasa-photo-of-the-day](https://github.com/LambdaSchool/nasa-photo-of-the-day)**
+
+-   **[https://github.com/beatlesm/nasa-photo-of-the-day](https://github.com/beatlesm/nasa-photo-of-the-day)**
+
+#### Guided project and youtube:
+
+-   **[https://github.com/beatlesm/web-guided-project-styling-components](https://github.com/beatlesm/web-guided-project-styling-components)**
+
+-   **[https://github.com/LambdaSchool/web-guided-project-styling-components](https://github.com/LambdaSchool/web-guided-project-styling-components)**
+
+-   **[Youtube - Web 2.2.4 - React Advanced Styling](https://www.youtube.com/watch?v=bU8VMsb7k1g)**
+
 ## About the setup
 
 This project is set up with [Parcel Bundler](https://parceljs.org/), an npm package

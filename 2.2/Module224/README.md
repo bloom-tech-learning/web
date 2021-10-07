@@ -11,7 +11,7 @@
 
 -   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
 
--   **[Youtube - Web 2.2 - - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
+-   **[Youtube - Web 2.2.4 - React Advanced Styling](https://www.youtube.com/watch?v=bU8VMsb7k1g)**
 
 ### Objective 1 - Describe ReactJS and the Problems that it Tries to Solve
 
