@@ -59,13 +59,13 @@ Side effects in web apps are very common. Therefore, it's essential to understan
 
 -   **[https://github.com/beatlesm/nasa-photo-of-the-day](https://github.com/beatlesm/nasa-photo-of-the-day)**
 
-### Guided project and youtube:
+#### Guided project and youtube:
 
 -   **[https://github.com/beatlesm/web-guided-project-dom-1](https://github.com/beatlesm/web-guided-project-dom-1)**
 
 -   **[https://github.com/LambdaSchool/web-guided-project-dom-1](https://github.com/LambdaSchool/web-guided-project-dom-1)**
 
--   **[Youtube - Web 2.2 - - DOM 1 Guided Project](https://www.youtube.com/watch?v=zp4yEAN7uQo)**
+-   **[Youtube - Web 2.2.4 - React Advanced Styling](https://www.youtube.com/watch?v=bU8VMsb7k1g)**s
 
 CSS by itself can be hard to scale in large applications. In this module, we will see multiple libraries that have been built to help us style our apps in a much more scalable way.
 
