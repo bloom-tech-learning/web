@@ -2,7 +2,7 @@
 
 ## [Module 1 - React Router](https://github.com/beatlesm/web/tree/main/2.3/Module231)
 
-#### [Assignment 2.3.1](https://github.com/beatlesm/web/tree/main/2.3/Module231/assignment231):
+#### [Assignment 2.3.1](https://github.com/beatlesm/web/tree/main/2.3/Module231/Assignment231):
 
 -   **[https://github.com/LambdaSchool/React-Router-Movies](https://github.com/LambdaSchool/React-Router-Movies)**
     Create an app that renders a list of movies in one route, and a movie info page in another route.
