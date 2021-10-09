@@ -1,8 +1,8 @@
 [back to home](https://github.com/beatlesm/)
 
-## [Module 3 - Advanced Form Management](https://github.com/beatlesm/web/tree/main/2.3/Module233)
+## [Module 2.3.3 - Advanced Form Management](https://github.com/beatlesm/web/tree/main/2.3/Module233)
 
-#### [Assignment 2.3.3](https://github.com/beatlesm/web/tree/main/2.3/Module231/assignment233):
+#### [Assignment 2.3.3](https://github.com/beatlesm/web/tree/main/2.3/Module233/assignment233):
 
 -   **[https://github.com/LambdaSchool/User-Onboarding](https://github.com/LambdaSchool/User-Onboarding)**
 
