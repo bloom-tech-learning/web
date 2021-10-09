@@ -10,13 +10,13 @@ In this project you'll build an app that will keep track of memebers of a team. 
 
 [back to home](https://github.com/beatlesm/)
 
-## [Module 1 - React Router](https://github.com/beatlesm/web/tree/main/2.3/Module231)
+## [ Module 2 - Form Management](https://github.com/beatlesm/web/tree/main/2.3/Module232)
 
-#### [Assignment 2.3.1](https://github.com/beatlesm/web/tree/main/2.3/Module231/assignment231):
+#### [Assignment 2.3.1](https://github.com/beatlesm/web/tree/main/2.3/Module231/assignment232):
 
 -   **[https://github.com/LambdaSchool/team-builder](https://github.com/LambdaSchool/team-builder)**
 
-#### [Guided project 2.3.1](https://github.com/beatlesm/web/tree/main/2.3/Module231/guided231):
+#### [Guided project 2.3.1](https://github.com/beatlesm/web/tree/main/2.3/Module231/guided232):
 
 ### Objective 1 - Demonstrate How to Build a Form With the Basic HTML Form Elements
 
