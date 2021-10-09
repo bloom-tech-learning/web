@@ -40,6 +40,3 @@ The visual testing application, cypress, is a great place to start learning abou
 
 ## Resources
  
--   **[https://www.pramp.com]()**
--   **[https://www.codewars.com/]()**
--   **[https://www.hackrank.com]()**
