@@ -1,6 +1,5 @@
 # Module 2.3.2: Forms - Team Builder
-
--   **[https://github.com/beatlesm/team-builder](https://github.com/beatlesm/team-builder)**
+[back to home](https://github.com/beatlesm/)
 
 This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored Form management in React. You learned about controled inputs, semantic HTML, some ES6 tools like the spread operator and computed properties, and synthetic events. In your project you will demonstrate proficiency of these subjects and principles by creating an application using each of these.
 
@@ -8,11 +7,11 @@ This project allows you to practice the concepts and techniques learned in this 
 
 In this project you'll build an app that will keep track of memebers of a team. You'll be able to add members to this team as well as edit their details.
 
-[back to home](https://github.com/beatlesm/)
-
 ## [ Module 2 - Form Management](https://github.com/beatlesm/web/tree/main/2.3/Module232)
 
 #### [Assignment 2.3.2](https://github.com/beatlesm/web/tree/main/2.3/Module231/assignment232):
+
+-   **[https://github.com/beatlesm/team-builder](https://github.com/beatlesm/team-builder)**
 
 -   **[https://github.com/LambdaSchool/team-builder](https://github.com/LambdaSchool/team-builder)**
 
