@@ -1,4 +1,4 @@
-# [Assignment 2.3.1React Router](https://lambdaschool.instructure.com/courses/1675/assignments/51384?module_item_id=617512)
+# [Assignment 2.3.1 - React Router](https://lambdaschool.instructure.com/courses/1675/assignments/51384?module_item_id=617512)
 
 Due to the insane popularity of JavaScript frameworks and what we call Single Page Applications (SPAs), we rely on our modern web browsers today for a lot more than we used to in the past. One of the common trends with SPAs to see today is the idea of Client-Side Routing or the browser taking care of "URL" history
 
