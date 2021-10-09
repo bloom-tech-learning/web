@@ -2,8 +2,9 @@
 
 ## Module Project
 
--   **[Team builder](https://github.com/LambdaSchool/team-builder)**
-    In this project, you will build a form to add new team members to your team. Then you'll use the same form to add edit functionality to your app as well.
+**[Team builder](https://github.com/LambdaSchool/team-builder)**
+
+In this project, you will build a form to add new team members to your team. Then you'll use the same form to add edit functionality to your app as well.
 
 
 

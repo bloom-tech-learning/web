@@ -9,7 +9,7 @@ In this project you'll build an app that will keep track of memebers of a team. 
 
 ## [ Module 2 - Form Management](https://github.com/beatlesm/web/tree/main/2.3/Module232)
 
-#### [Assignment 2.3.2](https://github.com/beatlesm/web/tree/main/2.3/Module231/assignment232):
+#### [Assignment 2.3.2](https://github.com/beatlesm/web/tree/main/2.3/Module232/Assignment232):
 
 -   **[https://github.com/beatlesm/team-builder](https://github.com/beatlesm/team-builder)**
 
