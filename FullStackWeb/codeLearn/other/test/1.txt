@@ -1,0 +1,173 @@
+1. What is Semantic HTML?
+
+Semantic describe tags with meaning..
+
+2. What is HTML used for?
+
+HTML is the language for describing the structure of Web pages.
+
+3. What is an attribute and where do we put it?
+
+All HTML elements can have attributes
+Attributes provide additional information about elements
+Attributes are always specified in the start tag
+Attributes usually come in name/value pairs like: name="value"
+
+4. What is the h1 tag used for? How many times should I use it on a page?
+
+H1 tags tell search engine bots and web users what a page is about. Every page needs only one H1 tag. H1 defines the most important heading.
+
+5. Name two tags that have required attributes
+
+	<text area rows =”   “ cols = “ “ name =” “ required> < /text area>
+	<input type =“text”> </input>
+
+6. What do we put in the head of our HTML document?
+
+The HTML <head> element is a container for the following elements: <title>, <style>, <meta>, <link>, <script>, and <base>.
+
+7. What is an id?
+
+The id global attribute defines an identifier (ID) which must be unique in the whole document.
+
+8. What elements can I add an id to?
+
+In HTML5, the id attribute can be used on any HTML element
+
+9. How many times can I use the same id on a page?
+
+The HTML id attribute is used to specify a unique id for an HTML element. You cannot have more than one element with the same id in an HTML document.
+
+10. What is a class?
+
+“class” selector can apply to multiple elements.
+
+11. What elements can I add a class to?
+
+Any HTML elements you want to style.
+
+12. How many times can I use the same class on a page?
+
+No limit
+
+13. How do I get my link to open in a new tab?
+
+Add a target="_blank" attribute to your links (anchor tags).
+
+14. What is the alt attribute in the image tag used for?
+
+An image with an alternate text specified.
+
+15. How do I reference an id?
+
+write a hash character (#), followed by an id name.
+
+16. What is the difference between a section and a div
+
+<section> is Semantic HTML. <div> , on the other hand, does not convey any meaning.
+
+17. What is CSS used for?
+
+CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.
+
+18. How do we select an element? Example - every h2 on the page
+h2{}
+19. What is the difference between a class and an id? - Give me an example of when I might use each one
+
+id is used for single elements that appear on the page for only once (e.g. header, footer, menu), whereas class is used for single or multiple elements that appear on the page for once or more than once.
+
+20. How do we select classes in CSS?
+
+To select elements with a specific class, write a period (.) character, followed by the name of the class.
+
+21. How do we select a p element with a single class of “human””?
+
+p.human{}
+
+22. What is a parent child selector? When would this be useful?
+
+The CSS child selector has two selectors separated by a > symbol.
+The first selector indicates the parent element.
+The second selector indicates the child element CSS will style.
+
+
+23. How do you select all links within a div with the class of sidebar?
+ 	div.sidebar {}
+
+24. What is a pseudo selector?
+
+CSS pseudo-classes are used to add styles to selectors, but only when those selectors meet certain conditions. A pseudo class is expressed by adding a colon (:) after a selector in CSS, followed by a pseudo-class such as "hover", "focus", or "active",
+
+25. What do we use to change the spacing between lines?
+
+Use the line-height property in CSS to do so.
+
+26. What do we use to change the spacing between letters?
+
+letter-spacing CSS property sets the horizontal spacing behavior between text characters.
+
+27. What do we use to change everything to CAPITALS? lowercase? Capitalize?
+
+The text-transform CSS property
+
+28. How do I add a 1px border around my div that is dotted and black?
+	.mydiv { border: dotted 1px black; }
+border: dotted 1px black;
+
+
+29. How do I select everything on the page?
+
+The * selector selects all elements do the job, for example: * { background-color: yellow;} Select all elements, and set their background color to yellow.
+
+30. How do I write a comment in CSS?
+
+     /* */
+
+31. How do I find out what file I am in, when I am using the command line?
+
+      pwd
+
+32. Using the command line - how do I see a list of files/folders in my current folder?
+
+      “ ls -la”
+
+33. How do I remove a file via the command line? Why do I have to be careful with this?
+
+      “ rm filename”
+
+34. Why should I use version control?
+35. How often should I commit to github?
+    20minute
+36. What is the command we would use to push our repo up to github?
+	The git command : git push do the job. for example, git push -u origin main
+37. Walk me through Lambda's git flow.
+1. Create MY OWN version of Repo —> (Fork)
+        2. My name should now be in front of the repo name before the slash '/' if forking is successful
+        3. Clone my Repo using githubs 'Clone or download' button
+        4. Back inside the CLI, use the cd command to go to the directory where I am going to want to clone the forked Repo (i.e.
+            The location where the repo should be saved on my computer)
+        5. Use the git clone <link-to-repo> command to clone the repo to the directory I am currently in.
+        6. cd into the newly created repo using the cd <repo-name> command
+        7. Use the git checkout -b 'firstname-lastname' command to create my own branch name for the repo (this is the branch that I will be doing my work on)
+        8. Now I can work on the repo and start getting the project assignment done.
+        9. To add and commit changes on the branch I can do the following
+            . git add .
+            . git commit -m "the helpful commit message here"
+        10. Push the changes back up to the Github repo
+            . git push -u origin branch-name
+        11. Now that the changes are on github prepare to submit a PR (Pull Request)
+        12. Go back to my forked Project repo on github (make sure the FORKED copy NOT the original Lambda one)
+            . Click on the Branch:master button on the left side
+            . This will create a dropdown to select the name-branch now
+            . Click the name-branch and then click the **New pull request** button to make a pull request on the name branch
+            . After click new pull request it should redirect to the pull request page
+            . IT IS IMPORTANT THAT DO NOT CLICK THE Create pull request BUTTON UNTIL AFTER COMPLETED THE NEXT STEP
+
+
+Stretch Questions
+
+    1. What is the difference between an inline element and a block element?
+    2. What happens when an element is positioned absolutely?
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them?
