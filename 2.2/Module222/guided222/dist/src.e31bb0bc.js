@@ -29772,211 +29772,7 @@ if ("development" === 'production') {
 } else {
   module.exports = require('./cjs/react-dom.development.js');
 }
-},{"./cjs/react-dom.development.js":"../node_modules/react-dom/cjs/react-dom.development.js"}],"../node_modules/parcel-bundler/src/builtins/bundle-url.js":[function(require,module,exports) {
-var bundleURL = null;
-
-function getBundleURLCached() {
-  if (!bundleURL) {
-    bundleURL = getBundleURL();
-  }
-
-  return bundleURL;
-}
-
-function getBundleURL() {
-  // Attempt to find the URL of the current script and use that as the base URL
-  try {
-    throw new Error();
-  } catch (err) {
-    var matches = ('' + err.stack).match(/(https?|file|ftp|chrome-extension|moz-extension):\/\/[^)\n]+/g);
-
-    if (matches) {
-      return getBaseURL(matches[0]);
-    }
-  }
-
-  return '/';
-}
-
-function getBaseURL(url) {
-  return ('' + url).replace(/^((?:https?|file|ftp|chrome-extension|moz-extension):\/\/.+)\/[^/]+$/, '$1') + '/';
-}
-
-exports.getBundleURL = getBundleURLCached;
-exports.getBaseURL = getBaseURL;
-},{}],"../node_modules/parcel-bundler/src/builtins/css-loader.js":[function(require,module,exports) {
-var bundle = require('./bundle-url');
-
-function updateLink(link) {
-  var newLink = link.cloneNode();
-
-  newLink.onload = function () {
-    link.remove();
-  };
-
-  newLink.href = link.href.split('?')[0] + '?' + Date.now();
-  link.parentNode.insertBefore(newLink, link.nextSibling);
-}
-
-var cssTimeout = null;
-
-function reloadCSS() {
-  if (cssTimeout) {
-    return;
-  }
-
-  cssTimeout = setTimeout(function () {
-    var links = document.querySelectorAll('link[rel="stylesheet"]');
-
-    for (var i = 0; i < links.length; i++) {
-      if (bundle.getBaseURL(links[i].href) === bundle.getBundleURL()) {
-        updateLink(links[i]);
-      }
-    }
-
-    cssTimeout = null;
-  }, 50);
-}
-
-module.exports = reloadCSS;
-},{"./bundle-url":"../node_modules/parcel-bundler/src/builtins/bundle-url.js"}],"styles.less":[function(require,module,exports) {
-var reloadCSS = require('_css_loader');
-
-module.hot.dispose(reloadCSS);
-module.hot.accept(reloadCSS);
-},{"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"components/Pet.js":[function(require,module,exports) {
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = Pet;
-
-var _react = _interopRequireDefault(require("react"));
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function Pet(props) {
-  var pet = props.pet;
-  return /*#__PURE__*/_react.default.createElement("div", {
-    className: "pet-friends container"
-  }, /*#__PURE__*/_react.default.createElement("p", null, pet.name, " (", pet.type, ")"));
-}
-},{"react":"../node_modules/react/index.js"}],"components/PetsList.js":[function(require,module,exports) {
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = PetsList;
-
-var _react = _interopRequireDefault(require("react"));
-
-var _Pet = _interopRequireDefault(require("./Pet"));
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-// 👉 1- We need the Pet component
-function PetsList(props) {
-  var pets = props.pets;
-  return /*#__PURE__*/_react.default.createElement("div", {
-    className: "list-pets-friends container"
-  }, pets.map(function (pet) {
-    return /*#__PURE__*/_react.default.createElement(_Pet.default, {
-      pet: pet,
-      key: pet.id
-    });
-  }));
-}
-},{"react":"../node_modules/react/index.js","./Pet":"components/Pet.js"}],"components/Friend.js":[function(require,module,exports) {
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = Friend;
-
-var _react = _interopRequireDefault(require("react"));
-
-var _PetsList = _interopRequireDefault(require("./PetsList"));
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function Friend(props) {
-  // 👉 1- What does a Friend need?
-  var friend = props.friend,
-      changeStatus = props.changeStatus;
-  return /*#__PURE__*/_react.default.createElement("div", {
-    className: "friend-friends container"
-  }, /*#__PURE__*/_react.default.createElement("div", {
-    className: "friend-info"
-  }, /*#__PURE__*/_react.default.createElement("div", null, /*#__PURE__*/_react.default.createElement("h3", null, "Name: ", friend.name), /*#__PURE__*/_react.default.createElement("p", null, "Age: ", friend.age, " "), /*#__PURE__*/_react.default.createElement("p", null, "Married: ", friend.married ? 'Yes' : 'No', " ", /*#__PURE__*/_react.default.createElement("button", {
-    onClick: function onClick() {
-      return changeStatus(friend.id);
-    }
-  }, "change")), /*#__PURE__*/_react.default.createElement("div", null, "Likes:", /*#__PURE__*/_react.default.createElement("ul", null, friend.hobbies.map(function (like, idx) {
-    return /*#__PURE__*/_react.default.createElement("li", {
-      key: idx
-    }, like);
-  })))), /*#__PURE__*/_react.default.createElement("div", null, /*#__PURE__*/_react.default.createElement(_PetsList.default, {
-    pets: friend.pets
-  }))));
-}
-},{"react":"../node_modules/react/index.js","./PetsList":"components/PetsList.js"}],"components/FriendsList.js":[function(require,module,exports) {
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = FriendsList;
-
-var _react = _interopRequireDefault(require("react"));
-
-var _Friend = _interopRequireDefault(require("./Friend"));
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-// 👉 1- FriendsList renders several Friend components, import Friend
-function FriendsList(props) {
-  // 👉 2- What data does FriendsList need to do its job? Use destructuring
-  // 👉 What data do we need? ...well, a list of friends!
-  var friends = props.friends,
-      changeStatus = props.changeStatus;
-  return /*#__PURE__*/_react.default.createElement("div", {
-    className: "list-friends container"
-  }, friends.map(function (friend) {
-    return /*#__PURE__*/_react.default.createElement(_Friend.default, {
-      friend: friend,
-      key: friend.id,
-      changeStatus: changeStatus
-    });
-  }));
-}
-},{"react":"../node_modules/react/index.js","./Friend":"components/Friend.js"}],"components/Search.js":[function(require,module,exports) {
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = Search;
-
-var _react = _interopRequireDefault(require("react"));
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function Search(props) {
-  // STRETCH - What prop do we need to be able to change the value of
-  // the search term (which is state that lives in the top-level component)?
-  var changeHandler = function changeHandler(event) {// STRETCH - On 'change' of the input we should set a new search term in app state
-  };
-
-  return /*#__PURE__*/_react.default.createElement("div", {
-    className: "search-friends container"
-  }, /*#__PURE__*/_react.default.createElement("input", {
-    onChange: changeHandler
-  }));
-}
-},{"react":"../node_modules/react/index.js"}],"../node_modules/uuid/dist/esm-browser/rng.js":[function(require,module,exports) {
+},{"./cjs/react-dom.development.js":"../node_modules/react-dom/cjs/react-dom.development.js"}],"../node_modules/uuid/dist/esm-browser/rng.js":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -30870,7 +30666,213 @@ var _default = [{
   }]
 }];
 exports.default = _default;
-},{"uuid":"../node_modules/uuid/dist/esm-browser/index.js"}],"components/App.js":[function(require,module,exports) {
+},{"uuid":"../node_modules/uuid/dist/esm-browser/index.js"}],"../node_modules/parcel-bundler/src/builtins/bundle-url.js":[function(require,module,exports) {
+var bundleURL = null;
+
+function getBundleURLCached() {
+  if (!bundleURL) {
+    bundleURL = getBundleURL();
+  }
+
+  return bundleURL;
+}
+
+function getBundleURL() {
+  // Attempt to find the URL of the current script and use that as the base URL
+  try {
+    throw new Error();
+  } catch (err) {
+    var matches = ('' + err.stack).match(/(https?|file|ftp|chrome-extension|moz-extension):\/\/[^)\n]+/g);
+
+    if (matches) {
+      return getBaseURL(matches[0]);
+    }
+  }
+
+  return '/';
+}
+
+function getBaseURL(url) {
+  return ('' + url).replace(/^((?:https?|file|ftp|chrome-extension|moz-extension):\/\/.+)\/[^/]+$/, '$1') + '/';
+}
+
+exports.getBundleURL = getBundleURLCached;
+exports.getBaseURL = getBaseURL;
+},{}],"../node_modules/parcel-bundler/src/builtins/css-loader.js":[function(require,module,exports) {
+var bundle = require('./bundle-url');
+
+function updateLink(link) {
+  var newLink = link.cloneNode();
+
+  newLink.onload = function () {
+    link.remove();
+  };
+
+  newLink.href = link.href.split('?')[0] + '?' + Date.now();
+  link.parentNode.insertBefore(newLink, link.nextSibling);
+}
+
+var cssTimeout = null;
+
+function reloadCSS() {
+  if (cssTimeout) {
+    return;
+  }
+
+  cssTimeout = setTimeout(function () {
+    var links = document.querySelectorAll('link[rel="stylesheet"]');
+
+    for (var i = 0; i < links.length; i++) {
+      if (bundle.getBaseURL(links[i].href) === bundle.getBundleURL()) {
+        updateLink(links[i]);
+      }
+    }
+
+    cssTimeout = null;
+  }, 50);
+}
+
+module.exports = reloadCSS;
+},{"./bundle-url":"../node_modules/parcel-bundler/src/builtins/bundle-url.js"}],"styles.less":[function(require,module,exports) {
+var reloadCSS = require('_css_loader');
+
+module.hot.dispose(reloadCSS);
+module.hot.accept(reloadCSS);
+},{"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"components/Pet.js":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = Pet;
+
+var _react = _interopRequireDefault(require("react"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function Pet(props) {
+  var pet = props.pet;
+  return /*#__PURE__*/_react.default.createElement("div", {
+    className: "pet-friends container"
+  }, /*#__PURE__*/_react.default.createElement("p", null, pet.name, " (", pet.type, ")"));
+}
+},{"react":"../node_modules/react/index.js"}],"components/PetsList.js":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = PetsList;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _Pet = _interopRequireDefault(require("./Pet"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+// 👉 1- We need the Pet component
+function PetsList(props) {
+  var pets = props.pets;
+  return /*#__PURE__*/_react.default.createElement("div", {
+    className: "list-pets-friends container"
+  }, pets.map(function (pet) {
+    return /*#__PURE__*/_react.default.createElement(_Pet.default, {
+      pet: pet,
+      key: pet.id
+    });
+  }));
+}
+},{"react":"../node_modules/react/index.js","./Pet":"components/Pet.js"}],"components/Friend.js":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = Friend;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _PetsList = _interopRequireDefault(require("./PetsList"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function Friend(props) {
+  // 👉 1- What does a Friend need?
+  var friend = props.friend,
+      changeStatus = props.changeStatus;
+  console.log('friend in Friend: ', friend);
+  return /*#__PURE__*/_react.default.createElement("div", {
+    className: "friend-friends container"
+  }, /*#__PURE__*/_react.default.createElement("div", {
+    className: "friend-info"
+  }, /*#__PURE__*/_react.default.createElement("div", null, /*#__PURE__*/_react.default.createElement("h3", null, "Name: ", friend.name), /*#__PURE__*/_react.default.createElement("p", null, "Age: ", friend.age, " "), /*#__PURE__*/_react.default.createElement("p", null, "Married: ", friend.married ? 'Yes' : 'No', " ", /*#__PURE__*/_react.default.createElement("button", {
+    onClick: function onClick() {
+      return changeStatus(friend.id);
+    }
+  }, "change")), /*#__PURE__*/_react.default.createElement("div", null, "Likes:", /*#__PURE__*/_react.default.createElement("ul", null, friend.hobbies.map(function (like, idx) {
+    return /*#__PURE__*/_react.default.createElement("li", {
+      key: idx
+    }, like);
+  })))), /*#__PURE__*/_react.default.createElement("div", null, /*#__PURE__*/_react.default.createElement(_PetsList.default, {
+    pets: friend.pets
+  }))));
+}
+},{"react":"../node_modules/react/index.js","./PetsList":"components/PetsList.js"}],"components/FriendsList.js":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = FriendsList;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _Friend = _interopRequireDefault(require("./Friend"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+// 👉 1- FriendsList renders several Friend components, import Friend
+function FriendsList(props) {
+  // 👉 2- What data does FriendsList need to do its job? Use destructuring
+  // 👉 What data do we need? ...well, a list of friends!
+  var friends = props.friends,
+      changeStatus = props.changeStatus;
+  console.log('friends in FriendsList: ', friends);
+  return /*#__PURE__*/_react.default.createElement("div", {
+    className: "list-friends container"
+  }, friends.map(function (friend) {
+    return /*#__PURE__*/_react.default.createElement(_Friend.default, {
+      friend: friend,
+      key: friend.id,
+      changeStatus: changeStatus
+    });
+  }));
+}
+},{"react":"../node_modules/react/index.js","./Friend":"components/Friend.js"}],"components/Search.js":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = Search;
+
+var _react = _interopRequireDefault(require("react"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function Search(props) {
+  // STRETCH - What prop do we need to be able to change the value of
+  // the search term (which is state that lives in the top-level component)?
+  var changeHandler = function changeHandler(event) {// STRETCH - On 'change' of the input we should set a new search term in app state
+  };
+
+  return /*#__PURE__*/_react.default.createElement("div", {
+    className: "search-friends container"
+  }, /*#__PURE__*/_react.default.createElement("input", {
+    onChange: changeHandler
+  }));
+}
+},{"react":"../node_modules/react/index.js"}],"components/App.js":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -30910,15 +30912,20 @@ function _iterableToArrayLimit(arr, i) { if (typeof Symbol === "undefined" || !(
 
 function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 
-function App() {
+console.log('friendsData in APP: ', _friends.default);
+
+function App(props) {
   // 👉 3- Initialize a slice of state to keep track of the data
   // using the dummy data as the initial value of the slice of state
+  console.log('props.tData in APP: ', props.tData);
+
   var _useState = (0, _react.useState)(_friends.default),
       _useState2 = _slicedToArray(_useState, 2),
       friends = _useState2[0],
-      setFriends = _useState2[1]; // 👉 4- Initialize a slice to keep track of the value of the search box
-  // using an empty string as the initial value of the slice
+      setFriends = _useState2[1];
 
+  console.log('friends in App: ', friends); // 👉 4- Initialize a slice to keep track of the value of the search box
+  // using an empty string as the initial value of the slice
 
   var _useState3 = (0, _react.useState)(''),
       _useState4 = _slicedToArray(_useState3, 2),
@@ -30957,6 +30964,8 @@ var _react = _interopRequireDefault(require("react"));
 
 var _reactDom = require("react-dom");
 
+var _friends = _interopRequireDefault(require("./dummy-data/friends"));
+
 require("./styles.less");
 
 var _App = _interopRequireDefault(require("./components/App"));
@@ -30964,10 +30973,12 @@ var _App = _interopRequireDefault(require("./components/App"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 // Importing React libs from node_modules folder
-// Importing the styles - the bundler does some magic!
-// Importing a React component from another file
-(0, _reactDom.render)( /*#__PURE__*/_react.default.createElement(_App.default, null), document.querySelector('#root'));
-},{"react":"../node_modules/react/index.js","react-dom":"../node_modules/react-dom/index.js","./styles.less":"styles.less","./components/App":"components/App.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+console.log('testData in index.js: ', _friends.default); // Importing the styles - the bundler does some magic!
+
+(0, _reactDom.render)( /*#__PURE__*/_react.default.createElement(_App.default, {
+  tData: _friends.default
+}), document.querySelector('#root'));
+},{"react":"../node_modules/react/index.js","react-dom":"../node_modules/react-dom/index.js","./dummy-data/friends":"dummy-data/friends.js","./styles.less":"styles.less","./components/App":"components/App.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -30995,7 +31006,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "59219" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "53464" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

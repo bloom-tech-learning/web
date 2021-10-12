@@ -6,7 +6,7 @@ export default function FriendsList(props) {
   // 👉 2- What data does FriendsList need to do its job? Use destructuring
   // 👉 What data do we need? ...well, a list of friends!
   const { friends, changeStatus } = props;
-
+  console.log('friends in FriendsList: ', friends);
   return (
     <div className='list-friends container'>
       {/* 👉 3- We need to loop over the data rendering a Friend as we go */}
