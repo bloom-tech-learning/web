@@ -4,7 +4,7 @@ import PetsList from './PetsList'
 export default function Friend(props) {
   // 👉 1- What does a Friend need?
   const { friend, changeStatus } = props;
-
+  console.log('friend in Friend: ', friend);
   return (
     <div className='friend-friends container'>
       {/* 👉 2- Fix the JSX so it displays real info coming into the component */}

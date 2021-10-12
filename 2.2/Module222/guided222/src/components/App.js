@@ -8,11 +8,16 @@ import Search from './Search'
 // (Tomorrow we'll fetch the data from an API instead.)
 import friendsData, { hello } from '../dummy-data/friends';
 
+console.log('friendsData in APP: ', friendsData);
 
-export default function App() {
+export default function App(props) {
   // 👉 3- Initialize a slice of state to keep track of the data
   // using the dummy data as the initial value of the slice of state
+
+  console.log('props.tData in APP: ', props.tData);
   const [friends, setFriends] = useState(friendsData);
+
+  console.log('friends in App: ', friends);
 
   // 👉 4- Initialize a slice to keep track of the value of the search box
   // using an empty string as the initial value of the slice
