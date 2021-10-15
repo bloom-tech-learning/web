@@ -114,3 +114,9 @@ Follow these steps for completing your project.
 
 Set up your fork on Github to codegrade following the instructions [here](https://lambdaschool.instructure.com/courses/1590/assignments/49789), pushing commits to your main branch.
 - [ ] Your code will be reviewed over the next few days. Read [these instructions](https://www.notion.so/How-to-View-Feedback-in-CodeGrade-c5147cee220c4044a25de28bcb6bb54a) to learn how to view feedback in CodeGrade.
+
+## Resources
+ 
+-   **[https://github.com/beatlesm/caseybook2](https://github.com/beatlesm/caseybook2)**
+-   **[Youtube - caseybook2](https://github.com/beatlesm/caseybook2)**
+-   **[Random user api: ](https://randomuser.me/api/)**
