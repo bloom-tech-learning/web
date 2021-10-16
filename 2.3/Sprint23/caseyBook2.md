@@ -1,6 +1,6 @@
 #   caseBook2
 -   **[https://github.com/beatlesm/caseybook2](https://github.com/beatlesm/caseybook2)**
--   **[Youtube - caseybook2](https://github.com/beatlesm/caseybook2)**
+-   **[Youtube - caseybook2](https://www.youtube.com/watch?v=NOe1xNbzKtQ)**
 -   **[Random user api: ](https://randomuser.me/api/)**
 
 Alright all @here, the OPTIONAL React-from-scratch code along is starting in ~10. It will be recorded and I’ll share the recording either sometime tonight or tomorrow morning.
