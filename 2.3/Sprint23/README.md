@@ -118,5 +118,5 @@ Set up your fork on Github to codegrade following the instructions [here](https:
 ## Resources
  
 -   **[https://github.com/beatlesm/caseybook2](https://github.com/beatlesm/caseybook2)**
--   **[Youtube - caseybook2](https://github.com/beatlesm/caseybook2)**
+-   **[Youtube - caseybook2](https://www.youtube.com/watch?v=NOe1xNbzKtQ)**
 -   **[Random user api: ](https://randomuser.me/api/)**
