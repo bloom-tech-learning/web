@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { Link, Route, Switch } from 'react-router-dom'
 import axios from 'axios';
+import './App.css';
 
 // Components used for the different routes
 import Home from './components/Home'
@@ -9,31 +10,33 @@ import Order from './components/Order'
 import Help from './components/Help'
 
 const initialOrderDetails = [{
-  size: '9',
-  sauce: 'riginalRed',
-},
-]
+  size: '',
+  sauce: '',
+  topping: ['true'],
+  glutenFreeCrust: false
+}]
 
 const initialFormValues = {
   ///// DROPDOWN /////
   size: '',
-  sauce: '',
   ///// RADIO BUTTONS /////
   sauce: '',  
   ///// CHECKBOXES /////
-  topping: ['', ''],
+  topping: [],
   glutenFreeCrust: false
 }
 const initialFormErrors = {
   size: '',
   sauce: '',
-  toppings: ['', '',], 
+  topping: ['pepperoni', 'dicedtomatos', 'sausage', 'blackOlives', 'canadianBacon','roastedGarlic', 'spicyItalianSauage', 'artichokeHearts', 
+  'grilledChicker', 'threeCheese', 'Onions', 'pineApple', 'greenPepper', 'extraChesse' ], 
   glutenFreeCrust: false 
 }
+
 const initialDisabled = true
 
 const App = () => {
-  const [orders, setOrders] = useState([])
+  const [orders, setOrders] = useState(initialOrderDetails)
   const [formValues, setFormValues] = useState(initialFormValues) // object
   const [formErrors, setFormErrors] = useState(initialFormErrors) // object
   const [disabled, setDisabled] = useState(initialDisabled)       // boolean
@@ -50,6 +53,7 @@ const App = () => {
     
     axios.post('https://reqres.in/api/users', newOrder)
       .then(res => {
+       
         console.log('res.data: ', res.data);
         setOrders([res.data, ...orders]);        
       }).catch(err => {
@@ -63,20 +67,20 @@ const App = () => {
     const newOrder = {
       size: formValues.size.trim(),
       sauce: formValues.sauce.trim(),
-      toppings: ['pepperoni', 'dicedtomatos', 'sausage', 'blackOlives', 'canadianBacon','roastedGarlic', 'spicyItalianSauage', 'artichokeHearts', 
+      topping: ['pepperoni', 'dicedtomatos', 'sausage', 'blackOlives', 'canadianBacon','roastedGarlic', 'spicyItalianSauage', 'artichokeHearts', 
                 'grilledChicker', 'threeCheese', 'Onions', 'pineApple', 'greenPepper', 'extraChesse' ].filter(hobby => !!formValues[hobby]),      
-      glutenFreeCrust: true
-      
+      glutenFreeCrust: formValues.glutenFreeCrust      
     }
+
     setOrders([newOrder, ...orders]);
     setFormValues(initialFormValues);
-    console.log('newOrder: ',newOrder);
+    console.log('newOrder: ', newOrder);
     postNewOrder(newOrder);    
   }
 
   return (
     <div>
-      <nav>
+      <nav >
         <h1 className='store-header'>Lambda Eats</h1>
         <div className='nav-links'>
           <Link to="/">Home</Link>          
@@ -94,7 +98,7 @@ const App = () => {
           <OrderForm 
             values={formValues}
             change={inputChange}
-            // submit={formSubmit}
+            submit={formSubmit}
             disabled={disabled}
             errors={formErrors}
           />
@@ -103,7 +107,6 @@ const App = () => {
           <Home />
         </Route>        
       </Switch>
-
     </div>
   );
 };

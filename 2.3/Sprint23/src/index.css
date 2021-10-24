@@ -69,7 +69,6 @@ section {
 	padding: 4% 0;
 }
 
-
 #root {
   width: 100%;
   height: 100%;
@@ -132,13 +131,7 @@ nav {
 .shop-button.md-button {
   margin-top: -16px;
   width: 135px;
-}
-
-.form-wrapper {
-  color: #1c5d76; 
-  
-  display:flex;  
-  flex-flow: column nowrap;
+  height: 30px;
 }
 
 .special {  
