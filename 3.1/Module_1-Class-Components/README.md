@@ -9,8 +9,8 @@
 #### [Guided project 2.3.1](https://github.com/beatlesm/web/tree/main/2.3/Module231/guided231):
 
 
-### Objective 1 - Describe the Three Phases of the React Component Lifecycle
+### Objective 1 - Explain Class Components, and Use a Class Component to Render Some State Data to the DOM
 
-### Objective 2 - Properly Explain What the Constructor and Render Methods Do and What Their Place is in the React Component Lifecycle
+### Objective 2 - Share Data Between Components Using State and Props
 
-### Objective 3 - Use the componentDidMount Function to Set a Component's State Post Render
+### Objective 3 - Respond to Events Triggered by User Interaction and Handle User Input via Forms in React
