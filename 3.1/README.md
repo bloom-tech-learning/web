@@ -17,8 +17,4 @@ Every component in React has what we call a lifecycle. The lifecycle is a part o
 
 ### Testing Web Applications
 
--   **[https://github.com/LambdaSchool/github-usercard](https://github.com/LambdaSchool/github-usercard)**
-
-### Guided project and youtube:
-
 In this module, we will learn about automated testing and how to write unit tests with Jest and React-testing-library.
