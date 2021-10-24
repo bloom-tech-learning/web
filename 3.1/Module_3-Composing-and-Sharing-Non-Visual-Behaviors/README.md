@@ -1,6 +1,6 @@
 [back to home](https://github.com/beatlesm/)
 
-## [Module 1 - Class Components](https://github.com/beatlesm/web/tree/main/3.1/Module311)
+## [Module 3 - Composing and Sharing Non-Visual Behaviors](https://github.com/beatlesm/web/tree/main/3.1/Module311)
 
 #### [Assignment 3.1.1](https://github.com/beatlesm/web/tree/main/3.1/Module311/Assignment311):
 
@@ -9,8 +9,8 @@
 #### [Guided project 2.3.1](https://github.com/beatlesm/web/tree/main/2.3/Module231/guided231):
 
 
-### Objective 1 - Describe the Three Phases of the React Component Lifecycle
+### Objective 1 - define stateful logic
 
-### Objective 2 - Properly Explain What the Constructor and Render Methods Do and What Their Place is in the React Component Lifecycle
+### Objective 2 - Apply Non-Visual Behavior (Stateful Logic) With Custom Hooks
 
-### Objective 3 - Use the componentDidMount Function to Set a Component's State Post Render
+### Objective 3 - Compose Hooks in a Custom Hook to Extend Multiple Pieces of Stateful Logic
